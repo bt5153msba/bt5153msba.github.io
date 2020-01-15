@@ -81,13 +81,13 @@ Fri 01/17 | Introduction to Machine Learning | [LINK](note/blogs01.md) | N.A.
 Fri 01/24 | Machine Learning Practice | LINK | N.A.
 Fri 01/31 | Explainability-Accuracy Tradeoff| LINK | <font color='SeaGreen'>Form your team</font>
 Fri 02/07 | Bayesian Learning: Navie Bayes | LINK | N.A.
-Fri 02/14 | Bayesian Learning: Hidden Markov Model |LINK | <font color='SeaGreen'>Group Project Proposal Due</font> 
-Fri 02/21 | From Logistic Regression to Deep Learning | LINK | <font color='SeaGreen'>Individual Assignment Out</font>
+Fri 02/14 | From Logistic Regression to Deep Learning |LINK | <font color='SeaGreen'>Group Project Proposal Due</font> 
+Fri 02/21 | Representation Learning: Autoencoder| LINK | <font color='SeaGreen'>Individual Assignment Out</font>
 Fri 02/28 |  Recess Week | N.A. | <font color='SeaGreen'>Individual Assignment Due</font>
-Fri 03/06 | Representation Learning: Autoencoder | LINK | <font color='SeaGreen'>Kaggle Start</font>
-Fri 03/13 | Representation learning: Word2Vec   | LINK | <font color='SeaGreen'>In-class Midterm Exam</font>
-Fri 03/20 | Convolutional Neural Networks: Why It Works| LINK | <font color='SeaGreen'>Kaggle Due</font>
-Fri 03/27 | Is Machine Learning Dangerous? Starting from Generative Models| LINK| N.A.
+Fri 03/06 | Representation learning: Word2Vec | LINK | <font color='SeaGreen'>Kaggle Start</font>
+Fri 03/13 | Convolutional Neural Networks: Why It Works  | LINK | <font color='SeaGreen'>In-class Midterm Exam</font>
+Fri 03/20 | Generative Deep Learning | LINK | <font color='SeaGreen'>Kaggle Due</font>
+Fri 03/27 | Responsible Machine Learning | LINK| N.A.
 Fri 04/03 | Group Presentation 1 | N.A. | N.A.
 Fri 04/10 | Good Friday | N.A. | N.A.
 Fri 04/17 | Group Presentation 2 | N.A. | N.A.
