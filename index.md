@@ -81,7 +81,7 @@ Fri 01/17 | Introduction to Machine Learning | [LINK](note/blogs01.md) | N.A.
 Fri 01/24 | Machine Learning Practice | LINK | N.A.
 Fri 01/31 | Explainability-Accuracy Tradeoff| LINK | <font color='SeaGreen'>Form your team</font>
 Fri 02/07 | Bayesian Learning: Navie Bayes | LINK | N.A.
-Fri 02/14 | From Logistic Regression to Deep Learning |LINK | <font color='SeaGreen'>Group Project Proposal Due and Individual Assignment Out</font>
+Fri 02/14 | From Logistic Regression to Deep Learning |LINK | <font color='SeaGreen'>Group Project Proposal Due</font>
 Fri 02/21 | Representation Learning: Autoencoder| LINK | <font color='SeaGreen'>Individual Assignment Due</font>
 Fri 02/28 |  Recess Week | N.A. | N.A.
 Fri 03/06 | Representation learning: Word2Vec | LINK | <font color='SeaGreen'>Kaggle Start</font>
