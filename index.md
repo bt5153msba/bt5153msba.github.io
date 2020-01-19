@@ -41,6 +41,8 @@ If you are not proficient in python, you may find [some tutorials](material/codi
 
 ## <font color='DarkOrange'>Announcement</font>
 
+> - *2020-01-20*: The class on Jan/24 are cancelled due to CNY Eve. We will extend the lessons on Jan/31 and Feb/07 for an extra hour. 
+
 > - *2020-01-15*: [Group Project Team Table](https://docs.google.com/spreadsheets/d/1FeXTVqYQVQB8dIAgqkOI9U6_oIf9EzGIXXL1EZjA21E/edit?usp=sharing)
 
 > - *2019-12-01*: ~~this site has been public.~~
