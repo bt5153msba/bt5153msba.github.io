@@ -6,16 +6,15 @@
 
 2. [Notebook](../code/week6/week6.zip)
 
+
 ### Extra Reading
 
-1. [A Simple Explanation to Neural Network and Implementation from scratch](https://victorzhou.com/blog/intro-to-neural-networks/)
+1. [PCA and Autoencoder](http://www.cs.umd.edu/class/spring2019/cmsc422-0101/materials/lecture20-sp19.pdf)
 
-2. [Neural Network Visualization Tool](https://playground.tensorflow.org/)
+2. [From Unsupervised Learning to Self-supervised Learning](https://medium.com/syncedreview/yann-lecun-cake-analogy-2-0-a361da560dae)
 
-3. [Keras Resource](https://github.com/fchollet/keras-resources)
+3. [LeCun's comments](https://twitter.com/ylecun/status/1065836563614105601?lang=en)
 
-4. [Keras Vs Tensorflow Vs Pytorch](https://www.edureka.co/blog/keras-vs-tensorflow-vs-pytorch/)
+4. [Prototyping a Recommender System ](https://towardsdatascience.com/prototyping-a-recommender-system-step-by-step-part-1-knn-item-based-collaborative-filtering-637969614ea)
 
-5. [What are the major differences between TensorFlow, Keras, and PyTorch?](https://www.quora.com/What-are-the-major-differences-between-TensorFlow-Keras-and-PyTorch)
-
-6. [Official Pytorch Tutorial](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
+5. [Wide & Deep Learning for Recommender Systems](https://ai.googleblog.com/2016/06/wide-deep-learning-better-together-with.html)

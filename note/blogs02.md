@@ -19,3 +19,4 @@
 5. [Random Search for Hyper-Parameter Optimization](http://www.jmlr.org/papers/volume13/bergstra12a/bergstra12a.pdf)
 
 6. [Awesome Data Science with Python](https://github.com/r0f1/datascience)
+

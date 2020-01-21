@@ -8,12 +8,12 @@
 
 ### Extra Reading
 
-1. [Word2Vec Tutorial based on Gensim](https://www.kaggle.com/pierremegret/gensim-word2vec-tutorial)
+1. [The first ever convolutional network](http://www.scholarpedia.org/article/Neocognitron)
 
-2. [Gensim Introduction](http://kavita-ganesan.com/gensim-word2vec-tutorial-starter-code/#.XJRo92gzaUk)
+2. [Introducing convolutional neural networks by Google](https://www.youtube.com/watch?v=x_VrgWTKkiM)
 
-3. [Word2Vec Lecture by Chris Manning](https://www.youtube.com/watch?v=ERibwqs9p38)
+3. [1D CNN and its applications for time series](https://blog.goodaudience.com/introduction-to-1d-convolutional-neural-networks-in-keras-for-time-sequences-3a7ff801a2cf)
 
-4. [Visualization for graphs of nearest neighbors from high-dimensional word2vec embeddings](https://github.com/anvaka/word2vec-graph)
+4. [Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
 
-5. [Graph Embeddings ](https://towardsdatascience.com/graph-embeddings-the-summary-cc6075aba007)
+5. [Understanding your Convolution network with Visualizations](https://towardsdatascience.com/understanding-your-convolution-network-with-visualizations-a4883441533b)
