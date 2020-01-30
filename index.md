@@ -72,7 +72,9 @@ You are required to form a project group with 4-5 members. Students can form the
   * Project presentation (20%)
   * Project final report (20%)
 
+### Late Policy
 
+Without any reasonable justification, penalty is 25% for each additional late day.
 
 ## <font color='DarkOrange'>Schedule</font>
 
