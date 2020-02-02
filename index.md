@@ -41,7 +41,7 @@ If you are not proficient in python, you may find [some tutorials](material/codi
 
 ## <font color='DarkOrange'>Announcement</font>
 
-> - *2020-01-20*: The lecture on Jan/24 is cancelled due to CNY Eve. We will extend the lessons on Jan/31 and Feb/07 for an extra hour. 
+> - *2020-01-20*: ~~The lecture on Jan/24 is cancelled due to CNY Eve. We will extend the lessons on Jan/31 and Feb/07 for an extra hour.~~ 
 
 > - *2020-01-15*: [Group Project Team Table](https://docs.google.com/spreadsheets/d/1FeXTVqYQVQB8dIAgqkOI9U6_oIf9EzGIXXL1EZjA21E/edit?usp=sharing)
 
@@ -85,7 +85,7 @@ Class Venue: LT 15
 Fri 01/17 | Introduction to Machine Learning | [LINK](note/blogs01.md) | N.A.
 Fri 01/24 | Machine Learning Practice | [LINK](note/blogs02.md) | N.A.
 Fri 01/31 | Explainability-Accuracy Tradeoff| [LINK](note/blogs03.md) | <font color='SeaGreen'>Form your team</font>
-Fri 02/07 | Bayesian Learning: Navie Bayes | LINK | N.A.
+Fri 02/07 | Bayesian Learning: Navie Bayes | [LINK](note/blogs04.md) | N.A.
 Fri 02/14 | From Logistic Regression to Deep Learning |LINK | <font color='SeaGreen'>Group Project Proposal Due</font>
 Fri 02/21 | Representation Learning: Autoencoder | LINK | <font color='SeaGreen'>Individual Assignment Due</font>
 Fri 02/28 |  Recess Week | N.A. | N.A.
