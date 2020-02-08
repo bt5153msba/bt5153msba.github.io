@@ -41,7 +41,7 @@ If you are not proficient in python, you may find [some tutorials](material/codi
 
 ## <font color='DarkOrange'>Announcement</font>
 
-> - *2020-02-08*:: Zhihao is going to share KERAS TUTORIAL: HOW TO BUILD DEEP LEARNING MODELS and release the related homework after lecture on Feb-14.
+> - *2020-02-08*:: Zhihao is going to lead KERAS TUTORIAL: HOW TO BUILD DEEP LEARNING MODELS and release the related homework after lecture on Feb-14.
 
 > - *2020-02-05*:: [Project Team](https://docs.google.com/spreadsheets/d/13XujV4mwPHzrSveHvHnzDbvdYNJ3sk4xY9Md2urD1Jg/edit?usp=sharing)
 
