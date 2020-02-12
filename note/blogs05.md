@@ -19,3 +19,5 @@
 5. [What are the major differences between TensorFlow, Keras, and PyTorch?](https://www.quora.com/What-are-the-major-differences-between-TensorFlow-Keras-and-PyTorch)
 
 6. [Official Pytorch Tutorial](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
+
+7. [AAAI 2020 Keynotes by Turing Award Winners who are pionners in Deep Learning](https://conftube.com/video/UX8OubxsY8w)
