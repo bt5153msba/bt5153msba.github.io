@@ -18,3 +18,5 @@
 4. [Prototyping a Recommender System ](https://towardsdatascience.com/prototyping-a-recommender-system-step-by-step-part-1-knn-item-based-collaborative-filtering-637969614ea)
 
 5. [Wide & Deep Learning for Recommender Systems](https://ai.googleblog.com/2016/06/wide-deep-learning-better-together-with.html)
+
+6. [Recommender Systems by Xavier Amatriain](https://www.youtube.com/watch?v=mRToFXlNBpQ)

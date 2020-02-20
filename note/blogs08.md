@@ -17,3 +17,7 @@
 4. [Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
 
 5. [Understanding your Convolution network with Visualizations](https://towardsdatascience.com/understanding-your-convolution-network-with-visualizations-a4883441533b)
+
+6. [Receptive Fields in CNNs](https://medium.com/mlreview/a-guide-to-receptive-field-arithmetic-for-convolutional-neural-networks-e0f514068807)
+
+7. [For everything Convolution](https://arxiv.org/pdf/1603.07285.pdf)
