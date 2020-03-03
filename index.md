@@ -94,8 +94,8 @@ Fri 02/14 | From Logistic Regression to Deep Learning | [LINK](note/blogs05.md) 
 Fri 02/21 | Representation Learning: Autoencoder | [LINK](note/blogs06.md) | <font color='SeaGreen'>Individual Assignment Due</font>
 Fri 02/28 |  Recess Week | [DL Optimizers](note/blogs_dl.md) |  N.A.
 Fri 03/06 | Representation learning: Word2Vec | [LINK](note/blogs07.md) | <font color='SeaGreen'>Kaggle Start</font>
-Fri 03/13 | Convolutional Neural Networks: Why It Works  | LINK | <font color='SeaGreen'>In-class Midterm Exam</font>
-Fri 03/20 | Generative Deep Learning | [LINK](note/blogs09.md)  | 
+Fri 03/13 | Convolutional Neural Networks: Why It Works  | LINK | 
+Fri 03/20 | Generative Deep Learning | [LINK](note/blogs09.md)  |  <font color='SeaGreen'>In-class Midterm Exam</font>
 Fri 03/27 | Responsible Machine Learning | LINK| <font color='SeaGreen'>Kaggle Due</font>
 Fri 04/03 | Group Presentation 1 | N.A. | N.A.
 Fri 04/10 | Good Friday | N.A. | N.A.
