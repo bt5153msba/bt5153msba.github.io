@@ -54,7 +54,7 @@ If you are not proficient in python, you may find [some tutorials](material/codi
 
 ## <font color='DarkOrange'>Assessment</font>
 
-### Assignments (20%)
+### Assignments (50%)
 
 There are two assignments. One is a weekly assignment and the other is a mini two-weeks Kaggle competition. Students are expected to complete these two individual assignment to gauge their understanding of the course materials so as to prepare them for their Group Project and future data science tasks. Through lectures and programming assignments students will learn the necessary engineering tricks for making neural networks work on practical problems. Details of the individual assignment and Kaggle competition will be updated later. 
 
@@ -96,8 +96,8 @@ Fri 03/20 | Convolutional Neural Networks: Why It Works | LINK  |  <font color='
 Fri 03/27 | Generative Deep Learning | [LINK](note/blogs09.md)| <font color='SeaGreen'>Kaggle Competition Due</font>
 Fri 04/03 | Summary, Responsible ML | LINK | <font color='SeaGreen'>Assignment II and Kaggle Reprot Due</font>
 Fri 04/10 | Good Friday | N.A. | N.A.
-Fri 04/17 | N.A. | N.A. | N.A.
-Fri 04/24 | Reading Week | N.A. | <font color='SeaGreen'>Final Report</font>
+Fri 04/17 | N.A. | N.A. |  <font color='SeaGreen'>Presentation Recording Due</font>
+Fri 04/24 | Reading Week | N.A. | <font color='SeaGreen'>Final Report Due</font>
     
 ## <font color='DarkOrange'>Enjoy the class and all the deadlines</font>
 
