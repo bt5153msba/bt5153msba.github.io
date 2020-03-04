@@ -1,6 +1,6 @@
 ## BT5153 In-class Kaggle Competition
 
-We are hosting a in-class Kaggle competition. The competition is a text categorization problem, i.e., labeling natural language texts with relevant categories from a predefined set. Via assigning online content into categories, users can easily search and navigate within website or application.  This competition is centered around one natural language processing application and will also deepen your understanding of the machine learning concepts covered . 
+We are hosting a in-class Kaggle competition. The competition is a text categorization problem, i.e., labeling natural language texts with relevant categories from a predefined set. Via assigning online content into categories, users can easily search and navigate within website or application.  This competition is centered around one natural language processing application and will also deepen your understanding of the machine learning concepts. 
 
 ### What will be the competition be like?
 
@@ -53,6 +53,6 @@ Name this file with your NUS Student Number, i.e. A0123456Z.ipynb
 
 The file should include your code for data preprocessing, feature engineering, prediction validation, and generating your .csv submission. 
 
-The submission folders of report and notebook are **LumiNUS > Kaggle Report** and **LumiNUS > Kaggle Notebook**, respectively. 
+The submission folders of the report and notebook are **LumiNUS > Kaggle Report** and **LumiNUS > Kaggle Notebook**, respectively. 
 
 **Credit**: Melvin Mok, Zhao Rui
