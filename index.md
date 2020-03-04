@@ -60,12 +60,9 @@ There are two assignments. One is a weekly assignment and the other is a mini tw
 
 - **Credit**:
   * Assignment 1 (10%): pls download the hw files [here](code/BT5153_HW1.zip) 
-  * Kaggle Competition (10%)
- 
+  * Kaggle Competition (20%): See the [page](project/kaggle.md) for  more details.
+  * Assignment 2 (20%): The topic will be related to CNN. 
 
-### Midterm Exam (30%)
-
-Students are expected to attend the Midterm Examination. It will be open-book and open-notes. It will focus on the application of the materials covered in class. The mode of the delivery of the examination will be determined and announced later.
 
 ### Group Project (50%)
 
@@ -92,14 +89,14 @@ Fri 01/31 | Explainability-Accuracy Tradeoff| [LINK](note/blogs03.md) | <font co
 Fri 02/07 | Bayesian Learning: Navie Bayes | [LINK](note/blogs04.md) | N.A.
 Fri 02/14 | From Logistic Regression to Deep Learning | [LINK](note/blogs05.md)  | <font color='SeaGreen'>Group Project Proposal Due</font>
 Fri 02/21 | Representation Learning: Autoencoder | [LINK](note/blogs06.md) | <font color='SeaGreen'>Individual Assignment Due</font>
-Fri 02/28 |  Recess Week | [DL Optimizers](note/blogs_dl.md) |  N.A.
-Fri 03/06 | Representation learning: Word2Vec | [LINK](note/blogs07.md) | <font color='SeaGreen'>Kaggle Start</font>
-Fri 03/13 | Convolutional Neural Networks: Why It Works  | LINK | 
-Fri 03/20 | Generative Deep Learning | [LINK](note/blogs09.md)  |  <font color='SeaGreen'>In-class Midterm Exam</font>
-Fri 03/27 | Responsible Machine Learning | LINK| <font color='SeaGreen'>Kaggle Due</font>
-Fri 04/03 | Group Presentation 1 | N.A. | N.A.
+Fri 02/28 | Recess Week | [DL Optimizers](note/blogs_dl.md) |  N.A.
+Fri 03/06 | Representation learning: Word2Vec I | [LINK](note/blogs07.md) | <font color='SeaGreen'>Kaggle Start</font>
+Fri 03/13 | Representation learning: Word2Vec II | N.A. | 
+Fri 03/20 | Convolutional Neural Networks: Why It Works | LINK  |  <font color='SeaGreen'>Assignment II Out</font>
+Fri 03/27 | Generative Deep Learning | [LINK](note/blogs09.md)| <font color='SeaGreen'>Kaggle Competition Due</font>
+Fri 04/03 | Summary, Responsible ML | LINK | <font color='SeaGreen'>Assignment II and Kaggle Reprot Due</font>
 Fri 04/10 | Good Friday | N.A. | N.A.
-Fri 04/17 | Group Presentation 2 | N.A. | N.A.
+Fri 04/17 | N.A. | N.A. | N.A.
 Fri 04/24 | Reading Week | N.A. | <font color='SeaGreen'>Final Report</font>
     
 ## <font color='DarkOrange'>Enjoy the class and all the deadlines</font>
