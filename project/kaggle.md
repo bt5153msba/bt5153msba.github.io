@@ -13,6 +13,8 @@ We are hosting a in-class Kaggle competition. The competition is a text categori
 - At the end of the competition, you will be ranked on a private leaderboard
 - The private leaderboard is based on the other 70% of your submission
 - You may select 2 submissions for the final private leaderboard ranking
+- Here is the competition [link](https://www.kaggle.com/t/80e91ed1c272434b8f88a06fa61f0556)
+- [Kaggle Tutorials]()
 
 ### How will we be graded?
 
@@ -53,4 +55,4 @@ The file should include your code for data preprocessing, feature engineering, p
 
 The submission folders of report and notebook are **LumiNUS > Kaggle Report** and **LumiNUS > Kaggle Notebook**, respectively. 
 
-**Credit**: Melvin Mok
+**Credit**: Melvin Mok, Zhao Rui
