@@ -59,7 +59,7 @@ If you are not proficient in python, you may find [some tutorials](material/codi
 There are two assignments. One is a weekly assignment and the other is a mini two-weeks Kaggle competition. Students are expected to complete these two individual assignment to gauge their understanding of the course materials so as to prepare them for their Group Project and future data science tasks. Through lectures and programming assignments students will learn the necessary engineering tricks for making neural networks work on practical problems. Details of the individual assignment and Kaggle competition will be updated later. 
 
 - **Credit**:
-  * Assignment 1 (10%): pls download the hw files [here](code/BT5153_HW1.zip) 
+  * Assignment 1 (10%): hw [set & solution](code/BT5153_HW1.zip) 
   * Kaggle Competition (20%): See the [page](project/kaggle.md) for  more details.
   * Assignment 2 (20%): The topic will be related to CNN. 
 
