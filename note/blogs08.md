@@ -1,23 +1,11 @@
-# Week 8
-
-## In-class Material
-
-1. [Slides](../slides/w8.pdf)
-
-2. [Notebook](../code/week8/week8.zip)
+# Lecture 8
 
 ### Extra Reading
 
-1. [The first ever convolutional network](http://www.scholarpedia.org/article/Neocognitron)
+1. [Notebook for Some NLP Tools](../code/week8/week8.zip)
 
-2. [Introducing convolutional neural networks by Google](https://www.youtube.com/watch?v=x_VrgWTKkiM)
+2. [Multivariate time series models in Keras](https://github.com/deKeijzer/Multivariate-time-series-models-in-Keras/tree/master/notebooks)
 
-3. [1D CNN and its applications for time series](https://blog.goodaudience.com/introduction-to-1d-convolutional-neural-networks-in-keras-for-time-sequences-3a7ff801a2cf)
+3. [RNN vs Autoregressive Models: Transformer](https://bair.berkeley.edu/blog/2018/08/06/recurrent/)
 
-4. [Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
-
-5. [Understanding your Convolution network with Visualizations](https://towardsdatascience.com/understanding-your-convolution-network-with-visualizations-a4883441533b)
-
-6. [Receptive Fields in CNNs](https://medium.com/mlreview/a-guide-to-receptive-field-arithmetic-for-convolutional-neural-networks-e0f514068807)
-
-7. [For everything Convolution](https://arxiv.org/pdf/1603.07285.pdf)
+4. [Why BERT Fails In Commercial Environments](https://www.intel.ai/bert-commercial-environments/)

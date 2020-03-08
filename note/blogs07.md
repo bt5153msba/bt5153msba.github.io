@@ -1,4 +1,4 @@
-# Week 7
+# Lecture 7
 
 ## In-class Material
 

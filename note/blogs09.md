@@ -1,4 +1,4 @@
-# Week 9
+# Lecture 9
 
 ## In-class Material
 
@@ -8,10 +8,16 @@
 
 ### Extra Reading
 
-1. [What is a generative model?](https://www.quora.com/What-is-a-generative-model)
+1. [The first ever convolutional network](http://www.scholarpedia.org/article/Neocognitron)
 
-2. [Understanding GAN](https://towardsdatascience.com/understanding-generative-adversarial-networks-gans-cd6e4651a29)
+2. [Introducing convolutional neural networks by Google](https://www.youtube.com/watch?v=x_VrgWTKkiM)
 
-3. ['Cool' Applications of GAN](https://www.google.com/search?q=gan+applications&rlz=1C1GIWA_enSG819SG819&oq=GAN+applications&aqs=chrome.0.0l6.7367j0j7&sourceid=chrome&ie=UTF-8)
+3. [1D CNN and its applications for time series](https://blog.goodaudience.com/introduction-to-1d-convolutional-neural-networks-in-keras-for-time-sequences-3a7ff801a2cf)
 
-4. [Github for Gans Awesome Applications](https://github.com/nashory/gans-awesome-applications)
+4. [Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
+
+5. [Understanding your Convolution network with Visualizations](https://towardsdatascience.com/understanding-your-convolution-network-with-visualizations-a4883441533b)
+
+6. [Receptive Fields in CNNs](https://medium.com/mlreview/a-guide-to-receptive-field-arithmetic-for-convolutional-neural-networks-e0f514068807)
+
+7. [For everything Convolution](https://arxiv.org/pdf/1603.07285.pdf)

@@ -1,4 +1,4 @@
-# Week 5
+# Lecture 5
 
 ## In-class Material
 

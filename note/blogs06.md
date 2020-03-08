@@ -1,4 +1,4 @@
-# Week 6
+# Lecture 6
 
 ## In-class Material
 

@@ -1,4 +1,4 @@
-# Week 3
+# Lecture 3
 
 ## In-class Material
 

@@ -1,4 +1,4 @@
-# Week 2
+# Lecture 2
 
 ## In-class Material
 
