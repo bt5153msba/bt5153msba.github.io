@@ -92,7 +92,7 @@ Fri 02/21 | Representation Learning: Autoencoder | [LINK](note/blogs06.md) | <fo
 Fri 02/28 | Recess Week | [DL Optimizers](note/blogs_dl.md) |  N.A.
 Fri 03/06 | Representation learning: Word2Vec I | [LINK](note/blogs07.md) | <font color='SeaGreen'>Kaggle Start</font>
 Fri 03/13 | Representation learning: Word2Vec II | [LINK](note/blogs08.md) | 
-Fri 03/20 | Convolutional Neural Networks: Why It Works | LINK  |  <font color='SeaGreen'>Assignment II Out</font>
+Fri 03/20 | Convolutional Neural Networks: Why It Works | [LINK](note/blogs09.md)  |  <font color='SeaGreen'>Assignment II Out</font>
 Fri 03/27 | Generative Deep Learning | [LINK](note/blogs10.md)| <font color='SeaGreen'>Kaggle Competition Due</font>
 Fri 04/03 | Summary, Responsible ML | LINK | <font color='SeaGreen'>Assignment II and Kaggle Reprot Due</font>
 Fri 04/10 | Good Friday | N.A. | N.A.
