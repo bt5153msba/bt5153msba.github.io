@@ -2,7 +2,7 @@
 
 We are hosting a in-class Kaggle competition. The competition is a text categorization problem, i.e., labeling natural language texts with relevant categories from a predefined set. Via assigning online content into categories, users can easily search and navigate within website or application.  This competition is centered around one natural language processing application and will also deepen your understanding of the machine learning concepts. 
 
-### What will be the competition be like?
+### What will the competition be like?
 
 - Binary classification of text
 - Due in 3 weeks, i.e. **27 March 2020 17:00 Singapore time**
