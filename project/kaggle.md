@@ -1,6 +1,6 @@
 ## BT5153 In-class Kaggle Competition
 
-We are hosting a in-class Kaggle competition. The competition is a text categorization problem, i.e., labeling natural language texts with relevant categories from a predefined set. Via assigning online content into categories, users can easily search and navigate within website or application.  This competition is centered around one natural language processing application and will also deepen your understanding of the machine learning concepts. 
+We are hosting a in-class Kaggle competition. The competition is a text categorization problem, i.e., labeling natural language texts with relevant categories from a predefined set. Via assigning online content into categories, users can easily search and navigate within website or application.  This competition is centered around one natural language processing application and will also deepen your understanding of the machine learning concepts. **The binary labels indicate the voting numbers of the given text (from stackoverflow), i.e., 1 means the text got large voting numbers and 0 represents small ones.**
 
 ### What will the competition be like?
 
