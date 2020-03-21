@@ -7,3 +7,4 @@ description: "Course webiste for BT5153"
 #github_username: ""
   
 theme: jekyll-theme-minimal
+author_profile: false
