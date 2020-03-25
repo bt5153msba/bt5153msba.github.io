@@ -15,3 +15,8 @@
 3. ['Cool' Applications of GAN](https://www.google.com/search?q=gan+applications&rlz=1C1GIWA_enSG819SG819&oq=GAN+applications&aqs=chrome.0.0l6.7367j0j7&sourceid=chrome&ie=UTF-8)
 
 4. [Github for Gans Awesome Applications](https://github.com/nashory/gans-awesome-applications)
+
+
+5. [RNN Tutorial](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/)
+
+6. [When Recurrent Models Don't Need to be Recurrent](https://bair.berkeley.edu/blog/2018/08/06/recurrent/)
