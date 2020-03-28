@@ -94,7 +94,7 @@ Fri 03/06 | Representation learning: Word2Vec I | [LINK](note/blogs07.md) | <fon
 Fri 03/13 | Representation learning: Word2Vec II | [LINK](note/blogs08.md) | 
 Fri 03/20 | Convolutional Neural Networks: Why It Works | [LINK](note/blogs09.md)  |  <font color='SeaGreen'>Assignment II Out</font>
 Fri 03/27 | Recurrent Neural Network and Generative Deep Learning | [LINK](note/blogs10.md)| <font color='SeaGreen'>Kaggle Competition Due</font>
-Fri 04/03 | Summary, Responsible ML | LINK | <font color='SeaGreen'>Assignment II and Kaggle Reprot Due</font>
+Fri 04/03 | Summary, Responsible ML | [LINK](note/blogs11.md) | <font color='SeaGreen'>Assignment II and Kaggle Reprot Due</font>
 Fri 04/10 | Good Friday | N.A. | N.A.
 Fri 04/17 | N.A. | N.A. |  <font color='SeaGreen'>Presentation Recording Due</font>
 Fri 04/24 | Reading Week | N.A. | <font color='SeaGreen'>Final Report Due</font>
