@@ -15,3 +15,8 @@
 4. [Dealing With Bias in Artificial Intelligence](https://www.nytimes.com/2019/11/19/technology/artificial-intelligence-bias.html)
 
 5. [Bayesian Deep Learning](http://bayesiandeeplearning.org/)
+
+6. [Noam Chomsky: Coronavirus - What is at stake?](https://www.youtube.com/watch?v=t-N3In2rLI4)
+
+7. [The Corona Crisis is Not a Black Swan](https://www.youtube.com/watch?v=Tb2pXXUSzmI&feature=youtu.be)
+
