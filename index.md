@@ -41,6 +41,8 @@ If you are not proficient in python, you may find [some tutorials](material/codi
 
 ## <font color='DarkOrange'>Announcement</font>
 
+> - *2020-04-10*: The deadline of video submission has been extended to **April 24th**. 
+
 > - *2020-02-28*: ~~Melvin is going to share the details of our InClass Kaggle Competition on Mar-6. Good luck on your data science competition.~~   
 
 > - *2020-02-08*: ~~Zhihao is going to lead KERAS TUTORIAL: HOW TO BUILD DEEP LEARNING MODELS and release the related homework after lecture on Feb-14.~~
@@ -96,8 +98,8 @@ Fri 03/20 | Convolutional Neural Networks: Why It Works | [LINK](note/blogs09.md
 Fri 03/27 | Recurrent Neural Network and Generative Deep Learning | [LINK](note/blogs10.md)| <font color='SeaGreen'>Kaggle Competition Due</font>
 Fri 04/03 | Summary, Responsible ML | [LINK](note/blogs11.md) | <font color='SeaGreen'>Assignment II and Kaggle Reprot Due</font>
 Fri 04/10 | Good Friday | N.A. | N.A.
-Fri 04/17 | N.A. | N.A. |  <font color='SeaGreen'>Presentation Recording Due</font>
-Fri 04/24 | Reading Week | N.A. | <font color='SeaGreen'>Final Report Due</font>
+Fri 04/17 | N.A. | N.A. |  N.A.
+Fri 04/24 | Reading Week | N.A. | <font color='SeaGreen'>Presentation Recording & Final Report Due</font>
     
 ## <font color='DarkOrange'>Enjoy the class and all the deadlines</font>
 
