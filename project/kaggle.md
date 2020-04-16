@@ -55,4 +55,7 @@ The file should include your code for data preprocessing, feature engineering, p
 
 The submission folders of the report and notebook are **LumiNUS > Kaggle Report** and **LumiNUS > Kaggle Notebook**, respectively. 
 
+
 **Credit**: Melvin Mok, Zhao Rui
+
+

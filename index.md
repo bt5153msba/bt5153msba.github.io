@@ -41,6 +41,8 @@ If you are not proficient in python, you may find [some tutorials](material/codi
 
 ## <font color='DarkOrange'>Announcement</font>
 
+> - *2020-04-17*: A brief [summary](project/kaggle_summary.md) of the in-class Kaggle competition with some top submissions has been released. 
+
 > - *2020-04-10*: The deadline of video submission has been extended to **April 24th**. 
 
 > - *2020-02-28*: ~~Melvin is going to share the details of our InClass Kaggle Competition on Mar-6. Good luck on your data science competition.~~   
@@ -62,7 +64,7 @@ There are two assignments. One is a weekly assignment and the other is a mini tw
 
 - **Credit**:
   * Assignment 1 (10%): hw [set & solution](code/BT5153_HW1.zip) 
-  * Kaggle Competition (20%): See the [page](project/kaggle.md) for  more details.
+  * Kaggle Competition (20%): See the [page](project/kaggle.md) for  more details. 
   * Assignment 2 (20%): hw2 [set](code/BT5153_HW2.zip)
 
 
