@@ -65,7 +65,7 @@ There are two assignments. One is a weekly assignment and the other is a mini tw
 - **Credit**:
   * Assignment 1 (10%): hw [set & solution](code/BT5153_HW1.zip) 
   * Kaggle Competition (20%): See the [page](project/kaggle.md) for  more details. 
-  * Assignment 2 (20%): hw2 [set](code/BT5153_HW2.zip)
+  * Assignment 2 (20%): hw2 [set & solution](code/BT5153_HW2.zip)
 
 
 ### Group Project (50%)
