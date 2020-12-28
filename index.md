@@ -1,6 +1,6 @@
 # BT5153 Applied Machine Learning for Business Analytics
 
-#### <center>NUS, MSBA / Spring 2020</center>
+#### <center>NUS, MSBA / Spring 2021</center>
 
 ## <font color='DarkOrange'>Content</font>
 
@@ -41,32 +41,22 @@ If you are not proficient in python, you may find [some tutorials](material/codi
 
 ## <font color='DarkOrange'>Announcement</font>
 
-> - *2020-04-17*: A brief [summary](project/kaggle_summary.md) of the in-class Kaggle competition with some top submissions has been released. 
-
-> - *2020-04-10*: The deadline of video submission has been extended to **April 24th**. 
-
-> - *2020-02-28*: ~~Melvin is going to share the details of our InClass Kaggle Competition on Mar-6. Good luck on your data science competition.~~   
-
-> - *2020-02-08*: ~~Zhihao is going to lead KERAS TUTORIAL: HOW TO BUILD DEEP LEARNING MODELS and release the related homework after lecture on Feb-14.~~
-
-> - *2020-02-05*:: [Project Team](https://docs.google.com/spreadsheets/d/13XujV4mwPHzrSveHvHnzDbvdYNJ3sk4xY9Md2urD1Jg/edit?usp=sharing)
-
-> - *2020-01-20*: ~~The lecture on Jan/24 is cancelled due to CNY Eve. We will extend the lessons on Jan/31 and Feb/07 for an extra hour.~~ 
-
-> - *2019-12-01*: ~~this site has been public.~~
+> - *2020-12-01*: ~~this site has been updated.~~
 
 
 ## <font color='DarkOrange'>Assessment</font>
 
-### Assignments (50%)
+### Attendance (10%)
 
-There are two assignments. One is a weekly assignment and the other is a mini two-weeks Kaggle competition. Students are expected to complete these two individual assignment to gauge their understanding of the course materials so as to prepare them for their Group Project and future data science tasks. Through lectures and programming assignments students will learn the necessary engineering tricks for making neural networks work on practical problems. Details of the individual assignment and Kaggle competition will be updated later. 
+
+### Individual Assignments (40%)
+
+There are three assignments. two of them are weekly assignments and the other is a mini two-weeks Kaggle competition. Students are expected to complete these three individual assignments to gauge their understanding of the course materials so as to prepare them for their Group Project and future data science tasks. Details of the individual assignment and Kaggle competition will be updated later. 
 
 - **Credit**:
-  * Assignment 1 (10%): hw [set & solution](code/BT5153_HW1.zip) 
-  * Kaggle Competition (20%): See the [page](project/kaggle.md) for  more details. 
-  * Assignment 2 (20%): hw2 [set & solution](code/BT5153_HW2.zip)
-
+  * Kaggle Competition (20%)
+  * Assignment 1 (10%)
+  * Assignment 2 (10%)
 
 ### Group Project (50%)
 
@@ -79,28 +69,29 @@ You are required to form a project group with 4-5 members. Students can form the
 
 ### Late Policy
 
-Without any reasonable justification, penalty is 25% for each additional late day.
+* You can use 2 late days, with up to 2 late days per submission including assignments and group projects.
+* Once you have used all 2 late days, penalty is 25% for each additional late day. 
 
 ## <font color='DarkOrange'>Schedule</font>
 
-Class Venue: LT 15
+Class Venue: E-Learning
 
 **Date** |	**Topic** |	**Content** | **Assignment**
 :----:  | ------- | :----: | ---------------
-Fri 01/17 | Introduction to Machine Learning | [LINK](note/blogs01.md) | N.A.
-Fri 01/24 | Machine Learning Practice | [LINK](note/blogs02.md) | N.A.
-Fri 01/31 | Explainability-Accuracy Tradeoff| [LINK](note/blogs03.md) | <font color='SeaGreen'>Form your team</font>
-Fri 02/07 | Bayesian Learning: Navie Bayes | [LINK](note/blogs04.md) | N.A.
-Fri 02/14 | From Logistic Regression to Deep Learning | [LINK](note/blogs05.md)  | <font color='SeaGreen'>Group Project Proposal Due</font>
-Fri 02/21 | Representation Learning: Autoencoder | [LINK](note/blogs06.md) | <font color='SeaGreen'>Individual Assignment Due</font>
-Fri 02/28 | Recess Week | [DL Optimizers](note/blogs_dl.md) |  N.A.
-Fri 03/06 | Representation learning: Word2Vec I | [LINK](note/blogs07.md) | <font color='SeaGreen'>Kaggle Start</font>
-Fri 03/13 | Representation learning: Word2Vec II | [LINK](note/blogs08.md) | 
-Fri 03/20 | Convolutional Neural Networks: Why It Works | [LINK](note/blogs09.md)  |  <font color='SeaGreen'>Assignment II Out</font>
-Fri 03/27 | Recurrent Neural Network and Generative Deep Learning | [LINK](note/blogs10.md)| <font color='SeaGreen'>Kaggle Competition Due</font>
-Fri 04/03 | Summary, Responsible ML | [LINK](note/blogs11.md) | <font color='SeaGreen'>Assignment II and Kaggle Reprot Due</font>
-Fri 04/10 | Good Friday | N.A. | N.A.
-Fri 04/17 | N.A. | N.A. |  N.A.
+Fri 01/15 | Introduction to Machine Learning | LINK | N.A.
+Fri 01/22 | Machine Learning Practice | LINK | N.A.
+Fri 01/29 | Bayesian Models| LINK| <font color='SeaGreen'>Assignment I Out</font>
+Fri 02/05 | Neural Networks and Deep Learning | LINK | <font color='SeaGreen'>Form your team</font>
+Fri 02/12 | Chinese New Year | LINK | <font color='SeaGreen'>Group Project Proposal Due</font>
+Fri 02/19 | Deep Learning Practice | LINK |<font color='SeaGreen'>Kaggle Start</font>
+Fri 02/28 | Recess Week | N.A. |  N.A.
+Fri 03/05 | AutoEncoder | LINK| N.A.
+Fri 03/12 | Convolutional Neural Networks | LINK | <font color='SeaGreen'>Kaggle Competition Due</font>
+Fri 03/19 | Explainable Machine Learning  | LINK  | <font color='SeaGreen'>Kaggle Report Due</font>
+Fri 03/26 | Froninters in NLP: I | LINK | <font color='SeaGreen'>Assignment II Out</font>
+Fri 04/02 | Good Friday | LINK | N.A.
+Fri 04/09 | Froninters in NLP: II | N.A. | N.A.
+Fri 04/16 | Summary, Responsible ML | LINK |  N.A.
 Fri 04/24 | Reading Week | N.A. | <font color='SeaGreen'>Presentation Recording & Final Report Due</font>
     
 ## <font color='DarkOrange'>Enjoy the class and all the deadlines</font>
