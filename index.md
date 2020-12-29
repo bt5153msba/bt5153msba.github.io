@@ -46,17 +46,12 @@ If you are not proficient in python, you may find [some tutorials](material/codi
 
 ## <font color='DarkOrange'>Assessment</font>
 
-### Attendance (10%)
+### Quiz (10%)
 
 
 ### Individual Assignments (40%)
 
-There are three assignments. two of them are weekly assignments and the other is a mini two-weeks Kaggle competition. Students are expected to complete these three individual assignments to gauge their understanding of the course materials so as to prepare them for their Group Project and future data science tasks. Details of the individual assignment and Kaggle competition will be updated later. 
-
-- **Credit**:
-  * Kaggle Competition (20%)
-  * Assignment 1 (10%)
-  * Assignment 2 (10%)
+There are four weekly assignments. Students are expected to complete these individual tasks to gauge their understanding of the course materials so as to prepare them for their Group Project and future data science tasks. Details of the individual assignments will be updated later. 
 
 ### Group Project (50%)
 
