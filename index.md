@@ -75,19 +75,19 @@ Class Venue: E-Learning
 **Date** |	**Topic** |	**Content** | **Assignment**
 :----:  | ------- | :----: | ---------------
 Fri 01/15 | Introduction to Machine Learning | LINK | N.A.
-Fri 01/22 | Machine Learning Practice | LINK | N.A.
-Fri 01/29 | Bayesian Models| LINK| <font color='SeaGreen'>Assignment I Out</font>
+Fri 01/22 | Machine Learning Practices | LINK | N.A.
+Fri 01/29 | Bayesian Models | LINK| <font color='SeaGreen'>Assignment I Out</font>
 Fri 02/05 | Neural Networks and Deep Learning | LINK | <font color='SeaGreen'>Form your team</font>
 Fri 02/12 | Chinese New Year | LINK | <font color='SeaGreen'>Group Project Proposal Due</font>
-Fri 02/19 | Deep Learning Practice | LINK |<font color='SeaGreen'>Assignment II Out</font>
+Fri 02/19 | Deep Learning Practices | LINK |<font color='SeaGreen'>Assignment II Out</font>
 Fri 02/28 | Recess Week | N.A. |  N.A.
 Fri 03/05 | AutoEncoder | LINK| N.A.
 Fri 03/12 | Convolutional Neural Networks | LINK | <font color='SeaGreen'>Assignment III Out</font>
 Fri 03/19 | Explainable Machine Learning  | LINK  | N.A.
-Fri 03/26 | Froninters in NLP: I | LINK | <font color='SeaGreen'>Assignment IV Out</font>
+Fri 03/26 | Frontiers in NLP: I | LINK | <font color='SeaGreen'>Assignment IV Out</font>
 Fri 04/02 | Good Friday | LINK | N.A.
-Fri 04/09 | Froninters in NLP: II | N.A. | N.A.
-Fri 04/16 | Summary, Responsible ML | LINK |  <font color='SeaGreen'>Presentation Recording Due</font>
+Fri 04/09 | Frontiers in NLP: II | N.A. | N.A.
+Fri 04/16 | Responsible Machine Learning and Course Summary | LINK |  <font color='SeaGreen'>Presentation Recording Due</font>
 Fri 04/23 | Reading Week | N.A. | <font color='SeaGreen'>Final Report Due</font>
     
 ## <font color='DarkOrange'>Enjoy the class and all the deadlines</font>
