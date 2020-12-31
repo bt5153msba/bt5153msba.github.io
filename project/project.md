@@ -29,6 +29,7 @@ You might look at recent deep learning publications from top-tier machine learni
 - [Datasets on Reddit](https://www.reddit.com/r/datasets/)
 - [Currated list of "awesome public datasets"](https://github.com/caesar0301/awesome-public-datasets)
 - Use a 3rd-party web scraper to scrape content: [Octoparse](http://www.octoparse.com/) and other [web scrapers](http://www.octoparse.com/blog/9-free-web-scrapers-that-you-cannot-miss)
+- [How to analyse 100 GB of data on your laptop with Python](https://towardsdatascience.com/how-to-analyse-100s-of-gbs-of-data-on-your-laptop-with-python-f83363dda94)
 
 #### Previous Years Project Reports
 
