@@ -9,23 +9,25 @@ This module aims to prepare graduate students pursuing a master degree in busine
 - bayesian hyperparameter optimization
 - deep learning
 - autoencoder
-- variational autoencoder
+- transfer learning
 - convolutional neural network
 - recurrent neural network
 - generative adversarial networks (GAN)
 - interpretable machine learning
+- pre-trained nlp models
 
 At the same time, we investigate several applications such as:
 
 - sentiment analysis
 - part-of-speech tagging
 - name entity recognition
-- machine translation
-- automatic harry potter writing
 - recommendation system
 - image generation
 - spam detection
 - portfolio optimization
+- image denosing
+- face recognition
+- question answering
 
 In summary, the key takeaways of this course are as follows:
 
@@ -41,7 +43,9 @@ In summary, the key takeaways of this course are as follows:
 ### Course Policies
 
 #### No Late Policy
-Homework assignments will be posted on the website on Wednesdays and will be due the following Wednesday (listed in the course schedule). No homework assignments or project milestones will be accepted for credit after the deadline. If you have a verifiable medical condition or other special circumstances that interfere with your coursework please let us know as soon as possible by sending an email to the lecturer.
+* You can use 2 late days, with up to 2 late days per submission including assignments and group projects.
+* Once you have used all 2 late days, penalty is 25% for each additional late day.
+* If you have a verifiable medical condition or other special circumstances that interfere with your coursework please let us know as soon as possible by sending an email to the lecturer and TAs.
 
 #### Collaboration Policy
 We expect you to adhere to the University Honor Code at all times. Failure to adhere to the honor code and our policies may result in serious penalties, up to and including automatic failure in the course.
