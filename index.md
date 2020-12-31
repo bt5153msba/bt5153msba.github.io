@@ -87,8 +87,8 @@ Fri 03/19 | Explainable Machine Learning  | LINK  | N.A.
 Fri 03/26 | Froninters in NLP: I | LINK | <font color='SeaGreen'>Assignment IV Out</font>
 Fri 04/02 | Good Friday | LINK | N.A.
 Fri 04/09 | Froninters in NLP: II | N.A. | N.A.
-Fri 04/16 | Summary, Responsible ML | LINK |  N.A.
-Fri 04/24 | Reading Week | N.A. | <font color='SeaGreen'>Presentation Recording & Final Report Due</font>
+Fri 04/16 | Summary, Responsible ML | LINK |  <font color='SeaGreen'>Presentation Recording Due</font>
+Fri 04/23 | Reading Week | N.A. | <font color='SeaGreen'>Final Report Due</font>
     
 ## <font color='DarkOrange'>Enjoy the class and all the deadlines</font>
 
