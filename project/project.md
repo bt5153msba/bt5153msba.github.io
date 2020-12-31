@@ -37,8 +37,10 @@ You might look at recent deep learning publications from top-tier machine learni
 
 #### Last Year Analysis
 
-Here, you may find some analysis upon the last year reports (2020). It basically consists of two steps:
+Here, you may find some analysis upon the previous year reports (2019 and 2020). It basically consists of two steps:
 
 - [PDF Extraction](pyp_analyze/PDF_Extraction.html)
 
-- [Basic Text Analysis](pyp_analyze/Reprots_Analysis.html)
+- [Basic Text Analysis for reports in 2019](pyp_analyze/2019_reports_Analysis.html)
+
+- [Basic Text Analysis for reports in 2020](pyp_analyze/2020_reports_Analysis.html)
