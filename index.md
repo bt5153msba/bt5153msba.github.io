@@ -40,7 +40,7 @@ If you are not proficient in python, you may find [some tutorials](material/codi
 
 ## <font color='DarkOrange'>Announcement</font>
 
-> - *2020-12-01*: ~~this site has been updated.~~
+> - *2021-01-01*: ~~this site has been updated.~~
 
 
 ## <font color='DarkOrange'>Assessment</font>
@@ -92,4 +92,3 @@ Fri 04/23 | Reading Week | N.A. | <font color='SeaGreen'>Final Report Due</font>
 ## <font color='DarkOrange'>Enjoy the class and all the deadlines</font>
 
 ![credit: SG PIKACHU RUN 2017](img/PIKA.jpg)
-
