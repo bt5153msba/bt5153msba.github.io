@@ -8,9 +8,9 @@ This module provides students a deep overview of various advanced machine learni
 
 ### Contact Information:
 
-- Lecturer: [Zhao Rui](https://rzntu.github.io), [diszr@nus.edu.sg](mailto:diszr@nus.edu.sg)
-- TA: Melvin Mok, [e0335789@u.nus.edu](mailto:e0335789@u.nus.edu)
-- TA: Sun Zhihao, [e0025739@u.nus.edu](mailto:e0025739@u.nus.edu)
+- Lecturer: [Rui Zhao](https://rzntu.github.io), [diszr@nus.edu.sg](mailto:diszr@nus.edu.sg)
+- TA: Sanjay Saha, [sanjaysaha@u.nus.edu](mailto:sanjaysaha@u.nus.edu)
+- TA: Xutao Wang, [wangxutao@u.nus.edu](mailto:wangxutao@u.nus.edu)
 
 ### Prerequisites:
 
