@@ -42,7 +42,6 @@ If you are not proficient in python, you may find [some tutorials](material/codi
 
 > - *2021-01-01*: ~~this site has been updated.~~
 
-
 ## <font color='DarkOrange'>Assessment</font>
 
 ### Quiz (10%)
@@ -51,7 +50,12 @@ At the end of some lectures, there will a short in-class quiz on the material fr
 
 ### Individual Assignments (40%)
 
-There are four weekly assignments. Students are expected to complete these individual tasks to gauge their understanding of the course materials so as to prepare them for their Group Project and future data science tasks. Details of the individual assignments will be updated later. 
+There are two weekly assignments and a mini Kaggle competition. Students are expected to complete these individual tasks to gauge their understanding of the course materials so as to prepare them for their Group Project and future data science tasks. Details of the individual assignments will be updated later.
+
+- **Credit**:
+  * Assignment 1 (10%)
+  * Assignment 2 (10%)
+  * Kaggle Competition (20%)
 
 ### Group Project (50%)
 
@@ -80,11 +84,11 @@ Fri 02/05 | Neural Networks and Deep Learning | LINK | <font color='SeaGreen'>Fo
 Fri 02/12 | Chinese New Year | LINK | <font color='SeaGreen'>Group Project Proposal Due</font>
 Fri 02/19 | Deep Learning Practices | LINK |<font color='SeaGreen'>Assignment II Out</font>
 Fri 02/28 | Recess Week | N.A. |  N.A.
-Fri 03/05 | AutoEncoder | LINK| N.A.
-Fri 03/12 | Convolutional Neural Networks | LINK | <font color='SeaGreen'>Assignment III Out</font>
+Fri 03/05 | AutoEncoder | LINK| <font color='SeaGreen'>Kaggle Starts</font>
+Fri 03/12 | Convolutional Neural Networks | LINK | N.A.
 Fri 03/19 | Explainable Machine Learning  | LINK  | N.A.
-Fri 03/26 | Frontiers in NLP: I | LINK | <font color='SeaGreen'>Assignment IV Out</font>
-Fri 04/02 | Good Friday | LINK | N.A.
+Fri 03/26 | Frontiers in NLP: I | LINK | <font color='SeaGreen'>Kaggle Competition Due</font>
+Fri 04/02 | Good Friday | LINK | <font color='SeaGreen'>Kaggle Report Due</font>
 Fri 04/09 | Frontiers in NLP: II | N.A. | N.A.
 Fri 04/16 | Responsible Machine Learning and Course Summary | LINK |  <font color='SeaGreen'>Presentation Recording Due</font>
 Fri 04/23 | Reading Week | N.A. | <font color='SeaGreen'>Final Report Due</font>
