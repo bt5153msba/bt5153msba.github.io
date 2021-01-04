@@ -83,7 +83,7 @@ Fri 01/29 | Bayesian Models | LINK| <font color='SeaGreen'>Assignment I Out</fon
 Fri 02/05 | Neural Networks and Deep Learning | LINK | <font color='SeaGreen'>Form your team</font>
 Fri 02/12 | Chinese New Year | LINK | <font color='SeaGreen'>Group Project Proposal Due</font>
 Fri 02/19 | Deep Learning Practices | LINK |<font color='SeaGreen'>Assignment II Out</font>
-Fri 02/28 | Recess Week | N.A. |  N.A.
+Fri 02/26 | Recess Week | N.A. |  N.A.
 Fri 03/05 | AutoEncoder | LINK| <font color='SeaGreen'>Kaggle Starts</font>
 Fri 03/12 | Convolutional Neural Networks | LINK | N.A.
 Fri 03/19 | Explainable Machine Learning  | LINK  | N.A.
