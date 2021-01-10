@@ -40,7 +40,7 @@ If you are not proficient in python, you may find [some tutorials](material/codi
 
 ## <font color='DarkOrange'>Announcement</font>
 
-> - *2021-01-01*: ~~this site has been updated.~~
+> - *2021-01-01*: this site has been updated.
 
 ## <font color='DarkOrange'>Assessment</font>
 
