@@ -46,7 +46,7 @@ If you are not proficient in python, you may find [some tutorials](material/codi
 
 ### Quiz (10%)
 
-At the end of some lectures, there will a short in-class quiz on the material from the corresponding lecture. These quizzes will be in MCQ format and displayed in google forms. Since the quize is mainly designed for attendance check, students who are not present for the quiz, and unexcused, will not be able to make up the quiz.
+During some lectures, you will be asked to take a short in-class quiz on the material from the corresponding lecture. These quizzes will be in MCQ format and displayed in google forms. Since the quize is mainly designed for attendance check, students who are not present for the quiz, and unexcused, will not be able to make up the quiz.
 
 ### Individual Assignments (40%)
 
