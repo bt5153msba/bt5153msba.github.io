@@ -78,7 +78,7 @@ Class Venue: E-Learning
 **Date** |	**Topic** |	**Content** | **Assignment**
 :----:  | ------- | :----: | ---------------
 Fri 01/15 | Introduction to Machine Learning | [LINK](note/blogs01.md) | N.A.
-Fri 01/22 | Machine Learning Practices | LINK | N.A.
+Fri 01/22 | Machine Learning Practices | [LINK](note/blogs02.md)  | N.A.
 Fri 01/29 | Bayesian Models | LINK| <font color='SeaGreen'>Assignment I Out</font>
 Fri 02/05 | Neural Networks and Deep Learning | LINK | <font color='SeaGreen'>Form your team</font>
 Fri 02/12 | Chinese New Year | LINK | <font color='SeaGreen'>Group Project Proposal Due</font>
