@@ -9,8 +9,8 @@ You might look at recent deep learning publications from top-tier machine learni
 
 - [NeurIPS](https://neurips.cc/): Neural Information Processing Systems
 - [ICML](https://icml.cc/): International Conference on Machine Learning
-- [Analyzing CS trends from ICML and NIPS Research Papers](https://goo.gl/RaUUDV)
-- [EMNLP](https://www.emnlp-ijcnlp2019.org/): Empirical Methods in Natural Language Processing
+- [Analyzing CS trends from ICML and NIPS Research Papers](https://medium.com/@kakaoaireport/meta-analysis-on-6-163-papers-of-icml-nips-cbef530eaaf6)
+- [EMNLP](https://2020.emnlp.org/papers/main): Empirical Methods in Natural Language Processing
 - [ACL](http://www.acl2019.org/EN/index.xhtml): Association for Computational Linguistics
 - [Kaggle challenges](https://www.kaggle.com): An online machine learning competition website
 - [NLP+Twitter](https://github.com/aritter/twitter_nlp): Twitter NLP tools
