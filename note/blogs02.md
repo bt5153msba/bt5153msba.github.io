@@ -4,7 +4,7 @@
 
 1. [Slides](../slides/w2.pdf)
 
-2. [Notebook](../code/week2/week2.zip)
+2. [Notebook](../code/week2.zip)
 
 ### Extra Reading
 
