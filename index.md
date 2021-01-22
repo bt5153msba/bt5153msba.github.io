@@ -40,7 +40,9 @@ If you are not proficient in python, you may find [some tutorials](material/codi
 
 ## <font color='DarkOrange'>Announcement</font>
 
-> - *2021-01-01*: this site has been updated.
+> - *2021-01-22*:: [Project Team](https://docs.google.com/spreadsheets/d/1OmBdv-QyD0xAlN4717__vKu_cTS16L-4PNyi1A5Y_XY/edit?usp=sharing)
+
+> - *2021-01-01*: ~~this site has been updated.~~
 
 ## <font color='DarkOrange'>Assessment</font>
 
