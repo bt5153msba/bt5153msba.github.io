@@ -38,6 +38,9 @@ If you are not proficient in python, you may find [some tutorials](material/codi
 - [LumiNUS](https://luminus.nus.edu.sg/): **please check that you are enrolled.**
 - [Honor Code](honorcode.md)
 
+To resolve python package compatibility issues when running the provided notebooks, use [requirements.txt](material/requirements.txt) to install packages. [Virtual environments](https://docs.python-guide.org/dev/virtualenvs/#:~:text=virtualenv%20is%20a%20tool%20to,standalone%2C%20in%20place%20of%20Pipenv) are recommended to manage various versions of python projects.
+
+
 ## <font color='DarkOrange'>Announcement</font>
 
 > - *2021-01-22*:: [Project Team](https://docs.google.com/spreadsheets/d/1OmBdv-QyD0xAlN4717__vKu_cTS16L-4PNyi1A5Y_XY/edit?usp=sharing)
@@ -55,7 +58,7 @@ During some lectures, you will be asked to take a short in-class quiz on the mat
 There are two weekly assignments and a mini Kaggle competition. Students are expected to complete these individual tasks to gauge their understanding of the course materials so as to prepare them for their Group Project and future data science tasks. Details of the individual assignments will be updated later.
 
 - **Credit**:
-  * Assignment 1 (10%)
+  * Assignment 1 (10%): HW [Set](code/BT5153_HW1.zip)
   * Assignment 2 (10%)
   * Kaggle Competition (20%)
 
