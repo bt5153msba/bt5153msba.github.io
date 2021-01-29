@@ -58,7 +58,7 @@ During some lectures, you will be asked to take a short in-class quiz on the mat
 There are two weekly assignments and a mini Kaggle competition. Students are expected to complete these individual tasks to gauge their understanding of the course materials so as to prepare them for their Group Project and future data science tasks. Details of the individual assignments will be updated later.
 
 - **Credit**:
-  * Assignment 1 (10%): HW [Set](code/BT5153_HW1.zip)
+  * Assignment 1 (10%)
   * Assignment 2 (10%)
   * Kaggle Competition (20%)
 
