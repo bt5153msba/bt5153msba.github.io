@@ -86,7 +86,7 @@ Fri 01/15 | Introduction to Machine Learning | [LINK](note/blogs01.md) | N.A.
 Fri 01/22 | Machine Learning Practices | [LINK](note/blogs02.md)  | N.A.
 Fri 01/29 | Bayesian Models | [LINK](note/blogs03.md) | <font color='SeaGreen'>Assignment I Out</font>
 Fri 02/05 | Neural Networks and Deep Learning | [LINK](note/blogs04.md)  | <font color='SeaGreen'>Form your team</font>
-Fri 02/12 | Chinese New Year | LINK | 新年好
+Fri 02/12 | Chinese New Year | [LINK](note/blogs_vis.md) | 新年好
 Fri 02/19 | Deep Learning Practices | LINK |<font color='SeaGreen'>Proposal Due & Assignment II Out</font>
 Fri 02/26 | Recess Week | N.A. |  N.A.
 Fri 03/05 | AutoEncoder | LINK| <font color='SeaGreen'>Kaggle Starts</font>
