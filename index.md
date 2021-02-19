@@ -89,7 +89,7 @@ Fri 02/05 | Neural Networks and Deep Learning | [LINK](note/blogs04.md)  | <font
 Fri 02/12 | Chinese New Year | [LINK](note/blogs_vis.md) | 新年好
 Fri 02/19 | Deep Learning Practices | [LINK](note/blogs05.md)  |<font color='SeaGreen'>Proposal Due & Assignment II Out</font>
 Fri 02/26 | Recess Week | N.A. |  N.A.
-Fri 03/05 | AutoEncoder | LINK| <font color='SeaGreen'>Kaggle Starts</font>
+Fri 03/05 | AutoEncoder | [LINK](note/blogs06.md)| <font color='SeaGreen'>Kaggle Starts</font>
 Fri 03/12 | Convolutional Neural Networks | LINK | N.A.
 Fri 03/19 | Explainable Machine Learning  | LINK  | N.A.
 Fri 03/26 | Frontiers in NLP: I | LINK | <font color='SeaGreen'>Kaggle Competition Due</font>
