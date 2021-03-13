@@ -91,8 +91,8 @@ Fri 02/19 | Deep Learning Practices | [LINK](note/blogs05.md)  |<font color='Sea
 Fri 02/26 | Recess Week | N.A. |  N.A.
 Fri 03/05 | AutoEncoder | [LINK](note/blogs06.md)| <font color='SeaGreen'>Kaggle Starts</font>
 Fri 03/12 | Convolutional Neural Networks | [LINK](note/blogs07.md) | N.A.
-Fri 03/19 | Explainable Machine Learning  | LINK  | N.A.
-Fri 03/26 | Frontiers in NLP: I | LINK | <font color='SeaGreen'>Kaggle Competition Due</font>
+Fri 03/19 | Explainable Machine Learning  | [LINK](note/blogs08.md) | N.A.
+Fri 03/26 | Frontiers in NLP: I | [LINK](note/blogs09.md)  | <font color='SeaGreen'>Kaggle Competition Due</font>
 Fri 04/02 | Good Friday | LINK | <font color='SeaGreen'>Kaggle Report Due</font>
 Fri 04/09 | Frontiers in NLP: II | N.A. | N.A.
 Fri 04/16 | Responsible Machine Learning and Course Summary | LINK |  <font color='SeaGreen'>Presentation Recording Due</font>
