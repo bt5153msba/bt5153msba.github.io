@@ -94,7 +94,7 @@ Fri 03/12 | Convolutional Neural Networks | [LINK](note/blogs07.md) | N.A.
 Fri 03/19 | Explainable Machine Learning  | [LINK](note/blogs08.md) | N.A.
 Fri 03/26 | Frontiers in NLP: I | [LINK](note/blogs09.md)  | <font color='SeaGreen'>Kaggle Competition Due</font>
 Fri 04/02 | Good Friday | LINK | <font color='SeaGreen'>Kaggle Report Due</font>
-Fri 04/09 | Frontiers in NLP: II | N.A. | N.A.
+Fri 04/09 | Frontiers in NLP: II | [LINK](note/blogs10.md) | N.A.
 Fri 04/16 | Responsible Machine Learning and Course Summary | LINK |  <font color='SeaGreen'>Presentation Recording Due</font>
 Fri 04/23 | Reading Week | N.A. | <font color='SeaGreen'>Final Report Due</font>
     
