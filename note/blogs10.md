@@ -8,7 +8,7 @@
 
 ### Extra Reading
 
-1. [2019 Offering: Notebook for Some NLP Tools](../code/week8/week8.zip)
+1. [2019 Offering: Notebook for Some NLP Tools](../code/nlptools.zip)
 
 2. [Transfer Learning in NLP](https://docs.google.com/presentation/d/1LsUAhR_qIVbq6xH6Aw4ag8MGB_-UWfd0KoVhtTgye6o/edit?usp=sharing)
 
