@@ -43,7 +43,7 @@ To resolve python package compatibility issues when running the provided noteboo
 
 ## <font color='DarkOrange'>Announcement</font>
 
-> - *2022-01-05*: ~~this site has been updated.~~
+> - *2022-01-04*: this site has been updated.
 
 ## <font color='DarkOrange'>Assessment</font>
 
