@@ -1,16 +1,16 @@
 # BT5153 Applied Machine Learning for Business Analytics
 
-#### <center>NUS, MSBA / Spring 2021</center>
+#### <center>NUS, MSBA / Spring 2022</center>
 
 ## <font color='DarkOrange'>Content</font>
 
-This module provides students a deep overview of various advanced machine learning techniques applied to business analytics tasks. The focus of this course will be the key and intuitive idea behind machine learning models and hands-on examples instead of theoretical analysis. The tentative topics include machine learning pipeline, unsupervised learning, structure learning, Bayesian learning, deep learning and generative models. The programming languages used will be Python.
+This module provides students a deep overview of various advanced machine learning techniques applied to business analytics tasks. The focus of this course will be the key and intuitive idea behind machine learning models and hands-on examples instead of theoretical analysis. The tentative topics include deep learning, unsupervised learning, machine learning system design, casual inference and explainable machine learning. The programming languages used will be Python.
 
 ### Contact Information:
 
 - Lecturer: [Rui Zhao](https://rzntu.github.io), [diszr@nus.edu.sg](mailto:diszr@nus.edu.sg)
 - TA: Sanjay Saha, [sanjaysaha@u.nus.edu](mailto:sanjaysaha@u.nus.edu)
-- TA: Xutao Wang, [wangxutao@u.nus.edu](mailto:wangxutao@u.nus.edu)
+- TA: Xiaohui Liu, [xiaohuiliu@u.nus.edu](mailto:xiaohuiliu@u.nus.edu)
 
 ### Prerequisites:
 
@@ -43,9 +43,7 @@ To resolve python package compatibility issues when running the provided noteboo
 
 ## <font color='DarkOrange'>Announcement</font>
 
-> - *2021-01-22*:: [Project Team](https://docs.google.com/spreadsheets/d/1OmBdv-QyD0xAlN4717__vKu_cTS16L-4PNyi1A5Y_XY/edit?usp=sharing)
-
-> - *2021-01-01*: ~~this site has been updated.~~
+> - *2022-01-05*: ~~this site has been updated.~~
 
 ## <font color='DarkOrange'>Assessment</font>
 
@@ -82,21 +80,21 @@ Class Venue: E-Learning
 
 **Date** |	**Topic** |	**Content** | **Assignment**
 :----:  | ------- | :----: | ---------------
-Fri 01/15 | Introduction to Machine Learning | [LINK](note/blogs01.md) | N.A.
-Fri 01/22 | Machine Learning Practices | [LINK](note/blogs02.md)  | N.A.
-Fri 01/29 | Bayesian Models | [LINK](note/blogs03.md) | <font color='SeaGreen'>Assignment I Out</font>
-Fri 02/05 | Neural Networks and Deep Learning | [LINK](note/blogs04.md)  | <font color='SeaGreen'>Form your team</font>
-Fri 02/12 | Chinese New Year | [LINK](note/blogs_vis.md) | 新年好
-Fri 02/19 | Deep Learning Practices | [LINK](note/blogs05.md)  |<font color='SeaGreen'>Proposal Due & Assignment II Out</font>
-Fri 02/26 | Recess Week | N.A. |  N.A.
-Fri 03/05 | AutoEncoder | [LINK](note/blogs06.md)| <font color='SeaGreen'>Kaggle Starts</font>
-Fri 03/12 | Convolutional Neural Networks | [LINK](note/blogs07.md) | N.A.
-Fri 03/19 | Explainable Machine Learning  | [LINK](note/blogs08.md) | N.A.
-Fri 03/26 | Frontiers in NLP: I | [LINK](note/blogs09.md)  | <font color='SeaGreen'>Kaggle Competition Due</font>
-Fri 04/02 | Good Friday | LINK | <font color='SeaGreen'>Kaggle Report Due</font>
-Fri 04/09 | Frontiers in NLP: II | [LINK](note/blogs10.md) | N.A.
-Fri 04/16 | Responsible Machine Learning and Course Summary | [LINK](note/blogs11.md) | N.A.
-Sun 04/25 | Reading Week | N.A. | <font color='SeaGreen'>Presentation and Final Report Due</font>
+Fri 01/14 | Introduction to Machine Learning | TBU | N.A.
+Fri 01/21 | Machine Learning Practices | TBU | N.A.
+Fri 01/28 | Neural Networks and Deep Learning | TBU | <font color='SeaGreen'>Assignment I Out</font>
+Fri 02/04 | Deep Learning Practices | TBU  | <font color='SeaGreen'>Form your team</font>
+Fri 02/11 | Auto-encoders | TBU | N.A.
+Fri 02/18 | Convolutional Neural Networks| TBU  |<font color='SeaGreen'>Proposal Due & Assignment II Out</font>
+Fri 02/25 | Recess Week | N.A. |  N.A.
+Fri 03/04 | Explainable Machine Learning | TBU| <font color='SeaGreen'>Kaggle Starts</font>
+Fri 03/11 | Froniters in NLP | TBU | N.A.
+Fri 03/18 | Casual Inference for Decision Making | TBU | N.A.
+Fri 03/25 | Machine Learning System Design: I  | TBU | N.A.
+Fri 04/01 | Machine Learning System Design: II  | TBU  | <font color='SeaGreen'>Kaggle Competition Due</font>
+Fri 04/08 | Why ML Projects Fail in Business | TBU | <font color='SeaGreen'>Kaggle Report Due</font>
+Fri 04/15 | Good Friday | TBU | N.A.
+Sun 04/24 | Reading Week | N.A. | <font color='SeaGreen'>Presentation and Final Report Due</font>
     
 ## <font color='DarkOrange'>Enjoy the class and all the deadlines</font>
 
