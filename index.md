@@ -51,23 +51,24 @@ To resolve python package compatibility issues when running the provided noteboo
 
 During some lectures, you will be asked to take a short in-class quiz on the material from the corresponding lecture. These quizzes will be in MCQ format and displayed in google forms. Since the quize is mainly designed for attendance check, students who are not present for the quiz, and unexcused, will not be able to make up the quiz.
 
-### Individual Assignments (40%)
+### Individual Assignments (45%)
 
-There are two weekly assignments and a mini Kaggle competition. Students are expected to complete these individual tasks to gauge their understanding of the course materials so as to prepare them for their Group Project and future data science tasks. Details of the individual assignments will be updated later.
+There are three weekly assignments and a mini Kaggle competition. Students are expected to complete these individual tasks to gauge their understanding of the course materials so as to prepare them for their Group Project and future data science tasks. Details of the individual assignments will be updated later.
 
 - **Credit**:
-  * Assignment 1 (10%)
+  * Assignment 1  (5%)
   * Assignment 2 (10%)
+  * Assignment 3 (10%)
   * Kaggle Competition (20%)
 
-### Group Project (50%)
+### Group Project (45%)
 
 You are required to form a project group with 4-5 members. Students can form their own teams and please fill out the google sheets. If a student can’t find a partner, we will team you up randomly (send the email to our TAs). Your project task is to apply the data mining and machine learning techniques that you have acquired to gain insights and draw interesting conclusions to a (business) problem. You are to apply (advanced) data mining and analytics tools (preferably in Python as Python tools are used as supplementary aids during the delivery of this course) to process structured and unstructured data available on the Web. You will then summarize your insights and present your conclusions using suitable visual aids. More detailed information can be found [here](project/project.md).
 
 - **Credit**:
   * Project proposal (10%) 
   * Project presentation (20%)
-  * Project final report (20%)
+  * Project final report (15%)
 
 ### Late Policy
 
@@ -81,18 +82,18 @@ Class Venue: E-Learning
 **Date** |	**Topic** |	**Content** | **Assignment**
 :----:  | ------- | :----: | ---------------
 Fri 01/14 | Introduction to Machine Learning | TBU | N.A.
-Fri 01/21 | Machine Learning Practices | TBU | N.A.
-Fri 01/28 | Neural Networks and Deep Learning | TBU | <font color='SeaGreen'>Assignment I Out</font>
-Fri 02/04 | Deep Learning Practices | TBU  | <font color='SeaGreen'>Form your team</font>
+Fri 01/21 | Machine Learning Practices | TBU | <font color='SeaGreen'>Assignment I Out</font>
+Fri 01/28 | Neural Networks and Deep Learning | TBU |  <font color='SeaGreen'>Form your team</font>
+Fri 02/04 | Deep Learning Practices | TBU  | <font color='SeaGreen'>Assignment II Out</font>
 Fri 02/11 | Auto-encoders | TBU | N.A.
-Fri 02/18 | Convolutional Neural Networks| TBU  |<font color='SeaGreen'>Proposal Due & Assignment II Out</font>
+Fri 02/18 | Convolutional Neural Networks| TBU  |<font color='SeaGreen'>Proposal Due & Assignment III Out</font>
 Fri 02/25 | Recess Week | N.A. |  N.A.
 Fri 03/04 | Explainable Machine Learning | TBU| <font color='SeaGreen'>Kaggle Starts</font>
 Fri 03/11 | Froniters in NLP | TBU | N.A.
 Fri 03/18 | Casual Inference for Decision Making | TBU | N.A.
-Fri 03/25 | Machine Learning System Design: I  | TBU | N.A.
-Fri 04/01 | Machine Learning System Design: II  | TBU  | <font color='SeaGreen'>Kaggle Competition Due</font>
-Fri 04/08 | Why ML Projects Fail in Business | TBU | <font color='SeaGreen'>Kaggle Report Due</font>
+Fri 03/25 | Machine Learning System Design: I  | TBU | <font color='SeaGreen'>Kaggle Competition Due</font>
+Fri 04/01 | Machine Learning System Design: II  | TBU  | <font color='SeaGreen'>Kaggle Report Due</font>
+Fri 04/08 | Why ML Projects Fail in Business | TBU | N.A.
 Fri 04/15 | Good Friday | TBU | N.A.
 Sun 04/24 | Reading Week | N.A. | <font color='SeaGreen'>Presentation and Final Report Due</font>
     
