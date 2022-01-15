@@ -82,7 +82,7 @@ Class Venue: E-Learning
 **Date** |	**Topic** |	**Content** | **Assignment**
 :----:  | ------- | :----: | ---------------
 Fri 01/14 | Introduction to Machine Learning | [LINK](note/blogs01.md) | N.A.
-Fri 01/21 | Machine Learning Practices | TBU | <font color='SeaGreen'>Assignment I Out</font>
+Fri 01/21 | Machine Learning Practices | [LINK](note/blogs02.md) | <font color='SeaGreen'>Assignment I Out</font>
 Fri 01/28 | Neural Networks and Deep Learning | TBU |  <font color='SeaGreen'>Form your team</font>
 Fri 02/04 | Deep Learning Practices | TBU  | <font color='SeaGreen'>Assignment II Out</font>
 Fri 02/11 | Auto-encoders | TBU | N.A.
