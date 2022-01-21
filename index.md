@@ -43,6 +43,8 @@ To resolve python package compatibility issues when running the provided noteboo
 
 ## <font color='DarkOrange'>Announcement</font>
 
+> - *2022-01-21*: HW1 is released.
+
 > - *2022-01-04*: this site has been updated.
 
 ## <font color='DarkOrange'>Assessment</font>
@@ -56,7 +58,7 @@ During some lectures, you will be asked to take a short in-class quiz on the mat
 There are three weekly assignments and a mini Kaggle competition. Students are expected to complete these individual tasks to gauge their understanding of the course materials so as to prepare them for their Group Project and future data science tasks. Details of the individual assignments will be updated later.
 
 - **Credit**:
-  * Assignment 1  (5%)
+  * [Assignment 1](code/HW1.zip)  (5%)
   * Assignment 2 (10%)
   * Assignment 3 (10%)
   * Kaggle Competition (20%)
