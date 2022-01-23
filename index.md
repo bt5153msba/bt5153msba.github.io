@@ -85,13 +85,13 @@ Class Venue: E-Learning
 :----:  | ------- | :----: | ---------------
 Fri 01/14 | Introduction to Machine Learning | [LINK](note/blogs01.md) | N.A.
 Fri 01/21 | Machine Learning Practices | [LINK](note/blogs02.md) | <font color='SeaGreen'>Assignment I Out</font>
-Fri 01/28 | Neural Networks and Deep Learning | TBU |  <font color='SeaGreen'>Form your team</font>
+Fri 01/28 | Neural Networks and Deep Learning | [LINK](note/blogs03.md) |  <font color='SeaGreen'>Form your team</font>
 Fri 02/04 | Deep Learning Practices | TBU  | <font color='SeaGreen'>Assignment II Out</font>
 Fri 02/11 | Auto-encoders | TBU | N.A.
 Fri 02/18 | Convolutional Neural Networks| TBU  |<font color='SeaGreen'>Proposal Due & Assignment III Out</font>
 Fri 02/25 | Recess Week | N.A. |  N.A.
 Fri 03/04 | Explainable Machine Learning | TBU| <font color='SeaGreen'>Kaggle Starts</font>
-Fri 03/11 | Froniters in NLP | TBU | N.A.
+Fri 03/11 | Frontiers in NLP | TBU | N.A.
 Fri 03/18 | Casual Inference for Decision Making | TBU | N.A.
 Fri 03/25 | Machine Learning System Design: I  | TBU | <font color='SeaGreen'>Kaggle Competition Due</font>
 Fri 04/01 | Machine Learning System Design: II  | TBU  | <font color='SeaGreen'>Kaggle Report Due</font>

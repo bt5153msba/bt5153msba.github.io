@@ -1,4 +1,4 @@
-# Lecture 3 Bayesian Learning
+# Lecture 3 Neural Networks and Deep Learning
 
 ## In-class Material
 
@@ -8,14 +8,16 @@
 
 ### Extra Reading
 
-1. [What is the difference between Bayesian and frequentist statisticians?](https://www.quora.com/What-is-the-difference-between-Bayesian-and-frequentist-statisticians)
+1. [A Visual and Interactive Guide to the Basics of Neural Networks](http://jalammar.github.io/visual-interactive-guide-basics-neural-networks/)
 
-2. [How do I learn statistics for data science?](https://www.quora.com/How-do-I-learn-statistics-for-data-science-What-statistics-book-do-you-recommend-to-a-wannabe-data-scientist-who-is-familiar-with-basic-statistics-and-mathematics)
+2. [Neural Network Visualization Tool](https://playground.tensorflow.org/)
 
-3. [Hands-on Bayesian Methods](https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
+3. [Keras Resource](https://github.com/fchollet/keras-resources)
 
-4. [A Conceptual Introduction to Markov Chain Monte Carlo Methods](https://arxiv.org/abs/1909.12313)
+4. [Keras Vs Tensorflow Vs Pytorch](https://www.edureka.co/blog/keras-vs-tensorflow-vs-pytorch/)
 
-5. [Variational Inference](http://www.cs.columbia.edu/~blei/fogm/2018F/materials/BleiKucukelbirMcAuliffe2017.pdf)
+5. [What are the major differences between TensorFlow, Keras, and PyTorch?](https://www.quora.com/What-are-the-major-differences-between-TensorFlow-Keras-and-PyTorch)
 
-6. [From Linear Regression to Bayesian Linear Regression (Ch. 9)](https://mml-book.github.io/book/mml-book.pdf )
+6. [Official Pytorch Tutorial](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
+
+7. [AAAI 2020 Keynotes by Turing Award Winners who are pionners in Deep Learning](https://conftube.com/video/UX8OubxsY8w)
