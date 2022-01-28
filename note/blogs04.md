@@ -1,23 +1,23 @@
-# Lecture 4 Neural Networks and Deep Learning
+# Lecture 4 Deep Learning Practices
 
 ## In-class Material
 
 1. [Slides](../slides/w4.pdf)
 
-2. [Notebook](../code/week4.zip)
-
 ### Extra Reading
 
-1. [A Visual and Interactive Guide to the Basics of Neural Networks](http://jalammar.github.io/visual-interactive-guide-basics-neural-networks/)
+1. [An overview of Gradient Descent Optimization Methods](https://ruder.io/optimizing-gradient-descent/)
 
-2. [Neural Network Visualization Tool](https://playground.tensorflow.org/)
+2. [Multivariate time series models in Keras](https://github.com/deKeijzer/Multivariate-time-series-models-in-Keras/tree/master/notebooks)
 
-3. [Keras Resource](https://github.com/fchollet/keras-resources)
+3. [Backpropagation in Python, Andrej Karpathy](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b)
 
-4. [Keras Vs Tensorflow Vs Pytorch](https://www.edureka.co/blog/keras-vs-tensorflow-vs-pytorch/)
+4. [Understanding Transfer Learning for Medical Imaging](https://ai.googleblog.com/2019/12/understanding-transfer-learning-for.html)
 
-5. [What are the major differences between TensorFlow, Keras, and PyTorch?](https://www.quora.com/What-are-the-major-differences-between-TensorFlow-Keras-and-PyTorch)
+5. [Hands-on Transfer Learning with Python](https://github.com/dipanjanS/hands-on-transfer-learning-with-python/tree/master/notebooks)
 
-6. [Official Pytorch Tutorial](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
+6. [Estimating BMI from Face Images using Keras and Transfer Learning](https://medium.com/@leosimmons/estimating-body-mass-index-from-face-images-using-keras-and-transfer-learning-de25e1bc0212)
 
-7. [AAAI 2020 Keynotes by Turing Award Winners who are pionners in Deep Learning](https://conftube.com/video/UX8OubxsY8w)
+7. [Research Frontiers in Transfer Learning](https://arxiv.org/abs/1912.08812)
+
+8. [Deep Learning Tips and Tricks cheatsheet](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-deep-learning-tips-and-tricks)
