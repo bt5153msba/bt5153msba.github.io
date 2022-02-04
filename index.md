@@ -43,6 +43,8 @@ To resolve python package compatibility issues when running the provided noteboo
 
 ## <font color='DarkOrange'>Announcement</font>
 
+> - *2022-02-04*: HW2 is released.
+
 > - *2022-01-21*: HW1 is released.
 
 > - *2022-01-04*: this site has been updated.
@@ -59,7 +61,7 @@ There are three weekly assignments and a mini Kaggle competition. Students are e
 
 - **Credit**:
   * [Assignment 1](code/HW1.zip)  (5%)
-  * Assignment 2 (10%)
+  * [Assignment 2](code/HW2.zip) (10%)
   * Assignment 3 (10%)
   * Kaggle Competition (20%)
 
