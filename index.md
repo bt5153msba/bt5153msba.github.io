@@ -94,7 +94,7 @@ Fri 02/18 | Convolutional Neural Networks| [LINK](note/blogs06.md)  |<font color
 Fri 02/25 | Recess Week | N.A. |  N.A.
 Fri 03/04 | Explainable Machine Learning | TBU| <font color='SeaGreen'>Kaggle Starts</font>
 Fri 03/11 | Frontiers in NLP | TBU | N.A.
-Fri 03/18 | Casual Inference for Decision Making | TBU | N.A.
+Fri 03/18 | Causal Inference for Decision Making | TBU | N.A.
 Fri 03/25 | Model Evaluation in Machine Learning | TBU | <font color='SeaGreen'>Kaggle Competition Due</font>
 Fri 04/01 | Model Deployment in Machine Learning | TBU  | <font color='SeaGreen'>Kaggle Report Due</font>
 Fri 04/08 | Why ML Projects Fail in Business | TBU | N.A.
