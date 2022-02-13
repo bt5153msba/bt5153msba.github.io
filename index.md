@@ -95,8 +95,8 @@ Fri 02/25 | Recess Week | N.A. |  N.A.
 Fri 03/04 | Explainable Machine Learning | TBU| <font color='SeaGreen'>Kaggle Starts</font>
 Fri 03/11 | Frontiers in NLP | TBU | N.A.
 Fri 03/18 | Casual Inference for Decision Making | TBU | N.A.
-Fri 03/25 | Machine Learning System Design: I  | TBU | <font color='SeaGreen'>Kaggle Competition Due</font>
-Fri 04/01 | Machine Learning System Design: II  | TBU  | <font color='SeaGreen'>Kaggle Report Due</font>
+Fri 03/25 | Model Evaluation in Machine Learning | TBU | <font color='SeaGreen'>Kaggle Competition Due</font>
+Fri 04/01 | Model Deployment in Machine Learning | TBU  | <font color='SeaGreen'>Kaggle Report Due</font>
 Fri 04/08 | Why ML Projects Fail in Business | TBU | N.A.
 Fri 04/15 | Good Friday | TBU | N.A.
 Sun 04/24 | Reading Week | N.A. | <font color='SeaGreen'>Presentation and Final Report Due</font>
