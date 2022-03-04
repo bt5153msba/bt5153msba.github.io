@@ -63,7 +63,7 @@ There are three weekly assignments and a mini Kaggle competition. Students are e
   * [Assignment 1](code/HW1.zip)  (5%)
   * [Assignment 2](code/HW2.zip) (10%)
   * [Assignment 3](code/HW3.zip) (10%)
-  * Kaggle Competition (20%)
+  * [Kaggle Competition](material/kaggle.md) (20%)
 
 ### Group Project (45%)
 
