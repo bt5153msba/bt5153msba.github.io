@@ -93,7 +93,7 @@ Fri 02/11 | Auto-encoders | [LINK](note/blogs05.md) | N.A.
 Fri 02/18 | Convolutional Neural Networks| [LINK](note/blogs06.md)  |<font color='SeaGreen'>Proposal Due & Assignment III Out</font>
 Fri 02/25 | Recess Week | N.A. |  N.A.
 Fri 03/04 | Explainable Machine Learning | [LINK](note/blogs07.md)| <font color='SeaGreen'>Kaggle Starts</font>
-Fri 03/11 | Frontiers in NLP | TBU | N.A.
+Fri 03/11 | Frontiers in NLP | [LINK](note/blogs08.md) | N.A.
 Fri 03/18 | Causal Inference for Decision Making | TBU | N.A.
 Fri 03/25 | Model Evaluation in Machine Learning | TBU | <font color='SeaGreen'>Kaggle Competition Due</font>
 Fri 04/01 | Model Deployment in Machine Learning | TBU  | <font color='SeaGreen'>Kaggle Report Due</font>
