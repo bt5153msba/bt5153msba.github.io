@@ -37,3 +37,5 @@ The colab version will be shared in the class.
 13. [When Recurrent Models Don't Need to be Recurrent](https://bair.berkeley.edu/blog/2018/08/06/recurrent/)
 
 13. [The Time Series Transformer](https://towardsdatascience.com/the-time-series-transformer-2a521a0efad3)
+
+14. [Applying massive language models in the real world with Cohere](http://jalammar.github.io/applying-large-language-models-cohere/)

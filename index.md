@@ -43,6 +43,8 @@ To resolve python package compatibility issues when running the provided noteboo
 
 ## <font color='DarkOrange'>Announcement</font>
 
+> - *2022-03-11*: The colab version of codes from week6 could be found here https://github.com/rz0718/BT5153_2022.
+
 > - *2022-02-04*: HW2 is released.
 
 > - *2022-01-21*: HW1 is released.
@@ -94,8 +96,8 @@ Fri 02/18 | Convolutional Neural Networks| [LINK](note/blogs06.md)  |<font color
 Fri 02/25 | Recess Week | N.A. |  N.A.
 Fri 03/04 | Explainable Machine Learning | [LINK](note/blogs07.md)| <font color='SeaGreen'>Kaggle Starts</font>
 Fri 03/11 | Frontiers in NLP | [LINK](note/blogs08.md) | N.A.
-Fri 03/18 | Causal Inference for Decision Making | TBU | N.A.
-Fri 03/25 | Model Evaluation in Machine Learning | TBU | <font color='SeaGreen'>Kaggle Competition Due</font>
+Fri 03/18 | Model Evaluation in Machine Learning | TBU | N.A.
+Fri 03/25 | Causal Inference for Decision Making | TBU | <font color='SeaGreen'>Kaggle Competition Due</font>
 Fri 04/01 | Model Deployment in Machine Learning | TBU  | <font color='SeaGreen'>Kaggle Report Due</font>
 Fri 04/08 | Why ML Projects Fail in Business | TBU | N.A.
 Fri 04/15 | Good Friday | TBU | N.A.
