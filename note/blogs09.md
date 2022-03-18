@@ -4,7 +4,7 @@
 
 1. [Slides](../slides/w9.pdf)
 
-2. [Notebook](../code/week9_ModelEval.zip) 
+2. [Notebook](../code/week9_ModelEvalinML.zip) 
 
 The colab version could be found in this [repo](https://github.com/rz0718/BT5153_2022)
 
