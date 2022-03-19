@@ -19,3 +19,5 @@ Version Control Tool for Machine Learning Projects](https://towardsdatascience.c
 5. [Building a Machine Learning Web Application Using Flask](https://towardsdatascience.com/building-a-machine-learning-web-application-using-flask-29fa9ea11dac)
 
 6. [Introduction to Docker and Kubernetes on GCP](https://medium.com/google-cloud/introduction-to-docker-and-kubernets-on-gcp-with-hands-on-configuration-part-1-docker-3d9709ee9f6a)
+
+7. [How to Deploy a Machine Learning Model to Google Cloud](https://www.youtube.com/watch?v=fw6NMQrYc6w&t=6s)
