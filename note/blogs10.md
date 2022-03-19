@@ -2,7 +2,7 @@
 
 ## In-class Material
 
-1. [Slides](../slides/w11.pdf)
+1. [Slides](../slides/w10.pdf)
 2. [ML Pipeline Demo](https://github.com/rz0718/churn_model)
 
 ### Extra Reading
