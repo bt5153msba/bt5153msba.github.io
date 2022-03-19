@@ -1,4 +1,4 @@
-# Lecture 11 Model Deployment in Machine Learning 
+# Lecture 10 Model Deployment in Machine Learning 
 
 ## In-class Material
 
