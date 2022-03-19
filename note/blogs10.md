@@ -1,19 +1,21 @@
-# Lecture 10 Causal Inference for Decision Making
+# Lecture 11 Model Deployment in Machine Learning 
 
 ## In-class Material
 
-1. [Slides](../slides/w10.pdf)
+1. [Slides](../slides/w11.pdf)
+2. [ML Pipeline Demo](https://github.com/rz0718/churn_model)
 
 ### Extra Reading
 
-1. [Treatment Assignment Strategy](https://towardsdatascience.com/treatment-assignment-strategy-in-a-b-test-931133bb048f)
+1. [Made With ML](https://madewithml.com/#mlops)
 
-2. [Practical Guide to Product Experimentation](https://towardsdatascience.com/a-practical-guide-to-product-experimentation-f9a6252c0e9e)
+2. [Data Versioning and Reproducible ML with DVC and MLflow](https://databricks.com/session_eu20/data-versioning-and-reproducible-ml-with-dvc-and-mlflow)
 
-3. [How to Use Quasi-experiments and Counterfactuals to Build Great Products](https://medium.com/data-shopify/how-to-use-quasi-experiments-and-counterfactuals-to-build-great-products-487193794da)
+3. [Introduction to DVC: Data
+Version Control Tool for Machine Learning Projects](https://towardsdatascience.com/introduction-to-dvc-data-version-control-tool-for-machine-learning-projects-7cb49c229fe0)
 
-4. [Difference in Difference](https://research.facebook.com/publications/changes-in-engagement-before-and-after-posting-to-facebook/)
+4. [End-to-end MLOps with Vertex AI](https://www.youtube.com/watch?v=1ykDWsnL2LE)
 
-5. [Causal Inference Using Bayesian Structural Time-Series Models](https://towardsdatascience.com/causal-inference-using-bayesian-structural-time-series-models-ab1a3da45cd0)
+5. [Building a Machine Learning Web Application Using Flask](https://towardsdatascience.com/building-a-machine-learning-web-application-using-flask-29fa9ea11dac)
 
-6. [EconML and CausalML: Industrial Use Cases at Microsoft, TripAdvisor, Uber](https://causal-machine-learning.github.io/kdd2021-tutorial/)
+6. [Introduction to Docker and Kubernetes on GCP](https://medium.com/google-cloud/introduction-to-docker-and-kubernets-on-gcp-with-hands-on-configuration-part-1-docker-3d9709ee9f6a)
