@@ -12,10 +12,9 @@
 
 3. [We’re fighting fake news AI bots by using more AI. That’s a mistake](https://www.technologyreview.com/s/614810/were-fighting-fake-news-ai-bots-by-using-more-ai-thats-a-mistake/)
 
-4. [Dealing With Bias in Artificial Intelligence](https://www.nytimes.com/2019/11/19/technology/artificial-intelligence-bias.html)
+4. [Why Big Data Science & Data Analytics Projects Fail](https://www.datascience-pm.com/project-failures/)
 
 5. [Data Science Trends for 2022](https://www.youtube.com/watch?v=Vn5-kN4Wns0)
 
-6. [Why Big Data Science & Data Analytics Projects Fail](https://www.datascience-pm.com/project-failures/)
 
 
