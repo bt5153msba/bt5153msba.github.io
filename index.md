@@ -99,7 +99,7 @@ Fri 03/11 | Frontiers in NLP | [LINK](note/blogs08.md) | N.A.
 Fri 03/18 | Model Evaluation in Machine Learning | [LINK](note/blogs09.md) | N.A.
 Fri 03/25 | Model Deployment in Machine Learning | [LINK](note/blogs10.md) | <font color='SeaGreen'>Kaggle Competition Due</font>
 Fri 04/01 | Causal Inference for Decision Making | [LINK](note/blogs11.md)  | <font color='SeaGreen'>Kaggle Report Due</font>
-Fri 04/08 | Why do ML Projects Fail in Business | TBU | N.A.
+Fri 04/08 | Why do ML Projects Fail in Business | [LINK](note/blogs12.md)  | N.A.
 Fri 04/15 | Good Friday | TBU | N.A.
 Sun 04/24 | Reading Week | N.A. | <font color='SeaGreen'>Presentation and Final Report Due</font>
     
