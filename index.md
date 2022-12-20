@@ -77,24 +77,24 @@ You are required to form a project group with 4-5 members. Students can form the
 
 ## <font color='DarkOrange'>Schedule</font>
 
-Class Venue: E-Learning
+Class Venue: COM1-0204
 
 **Date** |	**Topic** |	**Content** | **Assignment**
 :----:  | ------- | :----: | ---------------
-Fri 01/13 | Introduction to Machine Learning | [LINK](note/blogs01.md) | N.A.
-Fri 01/20 | Data Massaging for Machine Learning | [LINK](note/blogs02.md) | <font color='SeaGreen'>Assignment I Out</font>
-Fri 01/27 | Neural Networks and Deep Learning | [LINK](note/blogs03.md) |  <font color='SeaGreen'>Form your team</font>
-Fri 02/03 | Deep Learning Practices | [LINK](note/blogs04.md) | <font color='SeaGreen'>Assignment II Out</font>
-Fri 02/10 | Auto-encoders | [LINK](note/blogs05.md) | N.A.
-Fri 02/17 | Convolutional Neural Networks| [LINK](note/blogs06.md)  |<font color='SeaGreen'>Proposal Due & Assignment III Out</font>
+Fri 01/13 | Introduction to Machine Learning | TBU | N.A.
+Fri 01/20 | Data Massaging for Machine Learning |TBU | <font color='SeaGreen'>Assignment I Out</font>
+Fri 01/27 | Neural Networks and Deep Learning | [TBU |  <font color='SeaGreen'>Form your team</font>
+Fri 02/03 | Deep Learning Practices | TBU | <font color='SeaGreen'>Assignment II Out</font>
+Fri 02/10 | Auto-encoders | TBU | N.A.
+Fri 02/17 | Convolutional Neural Networks| TBU  |<font color='SeaGreen'>Proposal Due & Assignment III Out</font>
 Fri 02/24 | Recess Week | N.A. |  N.A.
-Fri 03/04 | Explainable Machine Learning | [LINK](note/blogs07.md)| <font color='SeaGreen'>Kaggle Starts</font>
-Fri 03/10 | Frontiers in NLP | [LINK](note/blogs08.md) | N.A.
-Fri 03/17 | Model Evaluation in Machine Learning | [LINK](note/blogs09.md) | N.A.
-Fri 03/24 | Model Deployment in Machine Learning | [LINK](note/blogs10.md) | <font color='SeaGreen'>Kaggle Competition Due</font>
-Fri 03/31 | Causal Inference for Decision Making | [LINK](note/blogs11.md)  | <font color='SeaGreen'>Kaggle Report Due</font>
+Fri 03/04 | Explainable Machine Learning | TBU | <font color='SeaGreen'>Kaggle Starts</font>
+Fri 03/10 | Frontiers in NLP | TBU | N.A.
+Fri 03/17 | Model Evaluation in Machine Learning | TBU | N.A.
+Fri 03/24 | Model Deployment in Machine Learning | TBU | <font color='SeaGreen'>Kaggle Competition Due</font>
+Fri 03/31 | Causal Inference for Decision Making | TBU  | <font color='SeaGreen'>Kaggle Report Due</font>
 Fri 04/07 | Good Friday | TBU | N.A.  
-Fri 04/14 | Why do ML Projects Fail in Business | [LINK](note/blogs12.md)  | N.A.
+Fri 04/14 | Why do ML Projects Fail in Business | TBU  | N.A.
 Sun 04/21 | Reading Week | N.A. | <font color='SeaGreen'>Presentation and Final Report Due</font>
     
 ## <font color='DarkOrange'>Enjoy the class and all the deadlines</font>
