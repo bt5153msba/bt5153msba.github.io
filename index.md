@@ -35,15 +35,10 @@ If you are not proficient in python, you may find [some tutorials](material/codi
 - [Timetable](#schedule)
 - [Syllabus](material/syllabus.md)
 - [Final project](project/project.md)
-- [LumiNUS](https://luminus.nus.edu.sg/): **please check that you are enrolled.**
+- [Canvas](https://canvas.nus.edu.sg/courses/37268): **please check that you are enrolled.**
 - [Honor Code](honorcode.md)
 
 To resolve python package compatibility issues when running the provided notebooks, use [requirements.txt](material/requirements.txt) to install packages. [Virtual environments](https://docs.python-guide.org/dev/virtualenvs/#:~:text=virtualenv%20is%20a%20tool%20to,standalone%2C%20in%20place%20of%20Pipenv) are recommended to manage various versions of python projects.
-
-
-## <font color='DarkOrange'>Announcement</font>
-
-> - *2022-12-20*: this site has been updated.
 
 ## <font color='DarkOrange'>Assessment</font>
 
