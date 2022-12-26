@@ -69,6 +69,7 @@ You are required to form a project group with 4-5 members. Students can form the
 
 * You can use 2 late days, with up to 2 late days per submission including assignments and group projects.
 * Once you have used all 2 late days, penalty is 25% for each additional late day. 
+* It only applies for individual assignments.
 
 ## <font color='DarkOrange'>Schedule</font>
 
