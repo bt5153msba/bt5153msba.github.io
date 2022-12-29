@@ -38,8 +38,6 @@ If you are not proficient in python, you may find [some tutorials](material/codi
 - [Canvas](https://canvas.nus.edu.sg/courses/37268): **please check that you are enrolled.**
 - [Honor Code](honorcode.md)
 
-To resolve python package compatibility issues when running the provided notebooks, use [requirements.txt](material/requirements.txt) to install packages. [Virtual environments](https://docs.python-guide.org/dev/virtualenvs/#:~:text=virtualenv%20is%20a%20tool%20to,standalone%2C%20in%20place%20of%20Pipenv) are recommended to manage various versions of python projects.
-
 ## <font color='DarkOrange'>Assessment</font>
 
 ### Attendance Check (10%)
@@ -51,7 +49,7 @@ During some lectures, you will be asked to check in. It might be in-class quiz o
 There are three weekly assignments and a mini Kaggle competition. Students are expected to complete these individual tasks to gauge their understanding of the course materials so as to prepare them for their Group Project and future data science tasks. Details of the individual assignments will be updated later.
 
 - **Credit**:
-  * Assignment 1 (5%)
+  * Assignment 1 (10%)
   * Assignment 2 (10%)
   * Assignment 3 (10%)
   * Kaggle Competition (20%)
@@ -61,7 +59,7 @@ There are three weekly assignments and a mini Kaggle competition. Students are e
 You are required to form a project group with 4-5 members. Students can form their own teams and please fill out the google sheets. If a student can’t find a partner, we will team you up randomly (send the email to our TAs). Your project task is to apply the data mining and machine learning techniques that you have acquired to gain insights and draw interesting conclusions to a (business) problem. You are to apply (advanced) data mining and analytics tools (preferably in Python as Python tools are used as supplementary aids during the delivery of this course) to process structured and unstructured data available on the Web. You will then summarize your insights and present your conclusions using suitable visual aids. More detailed information can be found [here](project/project.md).
 
 - **Credit**:
-  * Project proposal (10%) 
+  * Project proposal (5%) 
   * Project presentation (20%)
   * Project final report (15%)
 
@@ -78,18 +76,18 @@ Class Venue: COM1-0204
 **Date** |	**Topic** |	**Content** | **Assignment**
 :----:  | ------- | :----: | ---------------
 Fri 01/13 | Introduction to Machine Learning and its Production | TBU | N.A.
-Fri 01/20 | Training Data Generation |TBU | <font color='SeaGreen'>Assignment I Out</font>
-Fri 01/27 | Neural Networks and Deep Learning | [TBU |  <font color='SeaGreen'>Form your team</font>
+Fri 01/20 | Training Data Generation | TBU | <font color='SeaGreen'>Assignment I Out</font>
+Fri 01/27 | Neural Networks and Deep Learning | TBU |  <font color='SeaGreen'>Form your team</font>
 Fri 02/03 | Deep Learning Practices | TBU | <font color='SeaGreen'>Assignment II Out</font>
 Fri 02/10 | Auto-encoders | TBU | N.A.
-Fri 02/17 | Convolutional Neural Networks| TBU  |<font color='SeaGreen'>Proposal Due & Assignment III Out</font>
+Fri 02/17 | Convolutional Neural Networks| TBU  |<font color='SeaGreen'>Proposal Due</font>
 Fri 02/24 | Recess Week | N.A. |  N.A.
-Fri 03/04 | Explainable Machine Learning | TBU | <font color='SeaGreen'>Kaggle Starts</font>
-Fri 03/10 | Frontiers in NLP | TBU | N.A.
+Fri 03/04 | Explainable Machine Learning | TBU | <font color='SeaGreen'>Assignment III Out</font>
+Fri 03/10 | Frontiers in NLP | TBU | <font color='SeaGreen'>Kaggle Starts</font>
 Fri 03/17 | Model Evaluation in Machine Learning | TBU | N.A.
-Fri 03/24 | Model Deployment in Machine Learning | TBU | <font color='SeaGreen'>Kaggle Competition Due</font>
-Fri 03/31 | Causal Inference for Decision Making | TBU  | <font color='SeaGreen'>Kaggle Report Due</font>
-Fri 04/07 | Good Friday | TBU | N.A.  
+Fri 03/24 | Get Machine Learning Models in Production | TBU | N.A.
+Fri 03/31 | Causal Inference for Decision Making | TBU  | <font color='SeaGreen'>Kaggle Competition Due</font>
+Fri 04/07 | Good Friday | TBU | <font color='SeaGreen'>Kaggle Report Due</font>
 Fri 04/14 | Why do ML Projects Fail in Business | TBU  | N.A.
 Sun 04/23 | Reading Week | N.A. | <font color='SeaGreen'>Presentation and Final Report Due</font>
     
