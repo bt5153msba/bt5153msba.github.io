@@ -44,7 +44,7 @@ If you are not proficient in python, you may find [some tutorials](material/codi
 
 During some lectures, you will be asked to check in. It might be in-class quiz or other forms of assignments. 
 
-### Individual Assignments (45%)
+### Individual Assignments (50%)
 
 There are three weekly assignments and a mini Kaggle competition. Students are expected to complete these individual tasks to gauge their understanding of the course materials so as to prepare them for their Group Project and future data science tasks. Details of the individual assignments will be updated later.
 
@@ -54,7 +54,7 @@ There are three weekly assignments and a mini Kaggle competition. Students are e
   * Assignment 3 (10%)
   * Kaggle Competition (20%)
 
-### Group Project (45%)
+### Group Project (40%)
 
 You are required to form a project group with 4-5 members. Students can form their own teams and please fill out the google sheets. If a student can’t find a partner, we will team you up randomly (send the email to our TAs). Your project task is to apply the data mining and machine learning techniques that you have acquired to gain insights and draw interesting conclusions to a (business) problem. You are to apply (advanced) data mining and analytics tools (preferably in Python as Python tools are used as supplementary aids during the delivery of this course) to process structured and unstructured data available on the Web. You will then summarize your insights and present your conclusions using suitable visual aids. More detailed information can be found [here](project/project.md).
 
