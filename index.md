@@ -35,6 +35,7 @@ If you are not proficient in python, you may find [some tutorials](material/codi
 
 - [Timetable](#schedule)
 - [Syllabus](material/syllabus.md)
+- [Code Repo](https://github.com/rz0718/BT5153_2023)
 - [Final project](project/project.md)
 - [Canvas](https://canvas.nus.edu.sg/courses/37268): **please check that you are enrolled.**
 - [Honor Code](honorcode.md)
