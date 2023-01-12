@@ -8,9 +8,10 @@ This module provides students a deep overview of various advanced machine learni
 
 ### Contact Information:
 
-- Lecturer: [Rui Zhao](https://rzntu.github.io), [diszr@nus.edu.sg](mailto:diszr@nus.edu.sg)
+- Lecturer: Rui Zhao, [diszr@nus.edu.sg](mailto:diszr@nus.edu.sg)
 - TA: Xiaohui Liu, [xiaohuiliu@u.nus.edu](mailto:xiaohuiliu@u.nus.edu)
 - TA: Aishik Pyne, [aishikpyne@u.nus.edu](mailto:aishikpyne@u.nus.edu)
+- TA: Cungen Zhu, [zhucg@nus.edu.sg](mailto:zhucg@nus.edu.sg)
 
 ### Prerequisites:
 
@@ -75,7 +76,7 @@ Class Venue: COM1-0204
 
 **Date** |	**Topic** |	**Content** | **Assignment**
 :----:  | ------- | :----: | ---------------
-Fri 01/13 | Introduction to Machine Learning and its Production | TBU | N.A.
+Fri 01/13 | Introduction to Machine Learning and its Production | [LINK](note/blogs01.md) | N.A.
 Fri 01/20 | Training Data Generation | TBU | <font color='SeaGreen'>Assignment I Out</font>
 Fri 01/27 | Neural Networks and Deep Learning | TBU |  <font color='SeaGreen'>Form your team</font>
 Fri 02/03 | Deep Learning Practices | TBU | <font color='SeaGreen'>Assignment II Out</font>
