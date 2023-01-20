@@ -92,7 +92,7 @@ Fri 03/31 | Causal Inference for Decision Making | TBU  | <font color='SeaGreen'
 Fri 04/07 | Good Friday | TBU | <font color='SeaGreen'>Kaggle Report Due</font>
 Fri 04/14 | Why do ML Projects Fail in Business | TBU  | N.A.
 Sun 04/23 | Reading Week | N.A. | <font color='SeaGreen'>Presentation and Final Report Due</font>
-    
+
 ## <font color='DarkOrange'>Enjoy the class and all the deadlines</font>
 
 ![credit: SG PIKACHU RUN 2017](img/PIKA.jpg)
