@@ -10,7 +10,7 @@
 
 1. [ML x ART](https://mlart.co/)
 
-2. [AI & ML based App Ideas](https://towardsdatascience.com/12-best-ai-ml-based-app-ideas-thatll-make-money-in-2020-96d104b6367e)
+2. [AI & ML based App Ideas](https://www.emizentech.com/blog/artificial-intelligence-app-ideas.html)
 
 3. [AI can show us the ravages of climate change](https://www.technologyreview.com/f/613547/ai-can-show-us-the-ravages-of-climate-change/)
 

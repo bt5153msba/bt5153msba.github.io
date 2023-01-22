@@ -79,7 +79,7 @@ Class Venue: COM1-0204
 :----:  | ------- | :----: | ---------------
 Fri 01/13 | Introduction to Machine Learning and its Production | [LINK](note/blogs01.md) | N.A.
 Fri 01/20 | Training Data Generation | [LINK](note/blogs02.md) | <font color='SeaGreen'>Assignment I Out</font>
-Fri 01/27 | Neural Networks and Deep Learning | TBU |  <font color='SeaGreen'>Form your team</font>
+Fri 01/27 | Neural Networks and Deep Learning | [LINK](note/blogs03.md) |  <font color='SeaGreen'>Form your team</font>
 Fri 02/03 | Deep Learning Practices | TBU | <font color='SeaGreen'>Assignment II Out</font>
 Fri 02/10 | Auto-encoders | TBU | N.A.
 Fri 02/17 | Convolutional Neural Networks| TBU  |<font color='SeaGreen'>Proposal Due</font>
@@ -92,7 +92,7 @@ Fri 03/31 | Causal Inference for Decision Making | TBU  | <font color='SeaGreen'
 Fri 04/07 | Good Friday | TBU | <font color='SeaGreen'>Kaggle Report Due</font>
 Fri 04/14 | Why do ML Projects Fail in Business | TBU  | N.A.
 Sun 04/23 | Reading Week | N.A. | <font color='SeaGreen'>Presentation and Final Report Due</font>
-
+    
 ## <font color='DarkOrange'>Enjoy the class and all the deadlines</font>
 
 ![credit: SG PIKACHU RUN 2017](img/PIKA.jpg)
