@@ -20,4 +20,4 @@
 
 6. [Official Pytorch Tutorial](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
 
-7. [AAAI 2020 Keynotes by Turing Award Winners who are pionners in Deep Learning](https://conftube.com/video/UX8OubxsY8w)
+7. [AAAI 2020 Keynotes by Turing Award Winners who are pionners in Deep Learning](https://www.youtube.com/watch?v=UX8OubxsY8w)
