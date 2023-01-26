@@ -80,7 +80,7 @@ Class Venue: COM1-0204
 Fri 01/13 | Introduction to Machine Learning and its Production | [LINK](note/blogs01.md) | N.A.
 Fri 01/20 | Training Data Generation | [LINK](note/blogs02.md) | <font color='SeaGreen'>Assignment I Out</font>
 Fri 01/27 | Neural Networks and Deep Learning | [LINK](note/blogs03.md) |  <font color='SeaGreen'>Form your team</font>
-Fri 02/03 | Deep Learning Practices | TBU | <font color='SeaGreen'>Assignment II Out</font>
+Fri 02/03 | Deep Learning Practices | [LINK](note/blogs04.md) | <font color='SeaGreen'>Assignment II Out</font>
 Fri 02/10 | Auto-encoders | TBU | N.A.
 Fri 02/17 | Convolutional Neural Networks| TBU  |<font color='SeaGreen'>Proposal Due</font>
 Fri 02/24 | Recess Week | N.A. |  N.A.
