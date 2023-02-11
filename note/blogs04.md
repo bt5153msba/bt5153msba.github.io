@@ -21,3 +21,7 @@
 6. [Estimating BMI from Face Images using Keras and Transfer Learning](https://medium.com/@leosimmons/estimating-body-mass-index-from-face-images-using-keras-and-transfer-learning-de25e1bc0212)
 
 7. [Deep Learning Tips and Tricks cheatsheet](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-deep-learning-tips-and-tricks)
+
+8. [Why do tree-based models still outperform deep learning on tabular data?](https://arxiv.org/abs/2207.08815)
+
+9. [Do not sleep on traditional machine learning: Simple and interpretable techniques are competitive to deep learning for sleep scoring](https://www.sciencedirect.com/science/article/abs/pii/S1746809422008837)
