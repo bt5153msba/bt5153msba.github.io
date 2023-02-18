@@ -84,7 +84,7 @@ Fri 02/03 | Deep Learning Practices | [LINK](note/blogs04.md) | <font color='Sea
 Fri 02/10 | Auto-encoders | [LINK](note/blogs05.md) | N.A.
 Fri 02/17 | Convolutional Neural Networks| [LINK](note/blogs06.md)  |<font color='SeaGreen'>Proposal Due</font>
 Fri 02/24 | Recess Week | N.A. |  N.A.
-Fri 03/04 | Explainable Machine Learning | TBU | <font color='SeaGreen'>Assignment III Out</font>
+Fri 03/04 | Explainable Machine Learning | [LINK](note/blogs07.md) | <font color='SeaGreen'>Assignment III Out</font>
 Fri 03/10 | Frontiers in NLP | [LINK](note/blogs08.md) | <font color='SeaGreen'>Kaggle Starts</font>
 Fri 03/17 | Model Evaluation in Machine Learning | TBU | N.A.
 Fri 03/24 | Get Machine Learning Models in Production | TBU | N.A.
