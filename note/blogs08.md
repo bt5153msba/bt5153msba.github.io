@@ -37,3 +37,5 @@
 13. [The Time Series Transformer](https://towardsdatascience.com/the-time-series-transformer-2a521a0efad3)
 
 14. [Applying massive language models in the real world with Cohere](http://jalammar.github.io/applying-large-language-models-cohere/)
+
+15. [Understanding and Coding the Self-Attention Mechanism of Large Language Models From Scratch](https://sebastianraschka.com/blog/2023/self-attention-from-scratch.html?utm_source=substack&utm_medium=email)
