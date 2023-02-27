@@ -4,3 +4,4 @@ code/\.ipynb_checkpoints/
 code/MNIST_data/
 
 \.vscode/
+.DS_Store
