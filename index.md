@@ -88,8 +88,8 @@ Fri 03/04 | Explainable Machine Learning | [LINK](note/blogs07.md) | <font color
 Fri 03/10 | Frontiers in NLP | [LINK](note/blogs08.md) | <font color='SeaGreen'>Kaggle Starts</font>
 Fri 03/17 | Model Evaluation in Machine Learning | [LINK](note/blogs09.md) | N.A.
 Fri 03/24 | Get Machine Learning Models in Production | [LINK](note/blogs10.md)  | N.A.
-Fri 03/31 | Causal Inference for Decision Making | [LINK](note/blogs11.md)  | <font color='SeaGreen'>Kaggle Competition Due</font>
-Fri 04/07 | Good Friday | TBU | <font color='SeaGreen'>Kaggle Report Due</font>
+Fri 03/31 | Causal Inference for Decision Making | [LINK](note/blogs11.md)  | <font color='SeaGreen'>Kaggle Competition Due 04/02</font>
+Fri 04/07 | Good Friday | TBU | <font color='SeaGreen'>Kaggle Report Due 04/09</font>
 Fri 04/14 | Why do ML Projects Fail in Business | TBU  | N.A.
 Sun 04/23 | Reading Week | N.A. | <font color='SeaGreen'>Presentation and Final Report Due</font>
     
