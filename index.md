@@ -90,7 +90,7 @@ Fri 03/17 | Model Evaluation in Machine Learning | [LINK](note/blogs09.md) | N.A
 Fri 03/24 | Get Machine Learning Models in Production | [LINK](note/blogs10.md)  | N.A.
 Fri 03/31 | Causal Inference for Decision Making | [LINK](note/blogs11.md)  | <font color='SeaGreen'>Kaggle Competition Due 04/02</font>
 Fri 04/07 | Good Friday | TBU | <font color='SeaGreen'>Kaggle Report Due 04/09</font>
-Fri 04/14 | Why do ML Projects Fail in Business | TBU  | N.A.
+Fri 04/14 | Why do ML Projects Fail in Business | [LINK](note/blogs12.md)  | N.A.
 Sun 04/23 | Reading Week | N.A. | <font color='SeaGreen'>Presentation and Final Report Due</font>
     
 ## <font color='DarkOrange'>Enjoy the class and all the deadlines</font>
