@@ -1,3 +1,5 @@
 # BT5153 Applied Machine Learning for Business Analytics
 
-Will be published soon
+#### <center>NUS, MSBA / Spring 2024</center>
+
+Will be ready soon! 
