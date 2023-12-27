@@ -34,7 +34,7 @@ If you are not proficient in python, you may find [some tutorials](material/codi
 - [Policy](material/coursepolicy.md)
 - [Code Repo]-TBU
 - [Final project]-TBU
-- [Canvas](https://canvas.nus.edu.sg/courses/37268): **please check that you are enrolled.**
+- [Canvas](https://canvas.nus.edu.sg/courses/52787): **please check that you are enrolled.**
 - [Honor Code](honorcode.md)
 
 ## <font color='DarkOrange'>Assessment</font>
