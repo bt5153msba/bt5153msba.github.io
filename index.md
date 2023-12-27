@@ -80,15 +80,15 @@ Fri 02/02 | Machine Learning Modelling |TBU |  <font color='SeaGreen'>Form your 
 Fri 02/09 | NO CLASS (CNY) | TBU | N.A.
 Fri 02/16 | Machine Learning Evaluation | TBU | <font color='SeaGreen'>Assignment II Out</font>
 Fri 02/23 | Machine Learning Deployment | TBU  | N.A.
-Fri 03/01 | Recess Week | N.A. |  <font color='SeaGreen'>Proposal Due</font>
+Sun 03/03 | Recess Week | N.A. |  <font color='SeaGreen'>Proposal Due </font>
 Fri 03/08 | Explainable Machine Learning | TBU | <font color='SeaGreen'>Assignment III Out</font>
 Fri 03/15 | From BoW to Word2Vec| TBU | <font color='SeaGreen'>Kaggle Starts</font>
 Fri 03/22 | From Word2Vec to Transformers | TBU | N.A.
 Fri 03/29 | NO CLASS (Good Friday) | TBU  | N.A.
-Fri 04/05 | LLM and its Practices I | TBU  | <font color='SeaGreen'>Kaggle Competition Due 04/02</font>
-Fri 04/12 | LLM and its Practices II | TBU | <font color='SeaGreen'>Kaggle Report Due 04/09</font>
+Fri 04/05 | LLM and its Practices I | TBU  | <font color='SeaGreen'>Kaggle Competition</font>
+Fri 04/12 | LLM and its Practices II | TBU | <font color='SeaGreen'>Kaggle Report</font>
 Fri 04/19 | Why do ML Projects Fail in Business | TBU  | N.A.
-Sun 04/26 | Reading Week | N.A. | <font color='SeaGreen'>Presentation and Final Report Due</font>
+Sun 04/28 | Reading Week | N.A. | <font color='SeaGreen'>Presentation and Final Report Due</font>
 
 ## <font color='DarkOrange'>A group of pokemon who majored in business analytics is studying machine learning and its application. - DALLE3</font>
 
