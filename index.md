@@ -90,6 +90,6 @@ Fri 04/12 | LLM and its Practices II | TBU | <font color='SeaGreen'>Kaggle Repor
 Fri 04/19 | Why do ML Projects Fail in Business | TBU  | N.A.
 Sun 04/28 | Reading Week | N.A. | <font color='SeaGreen'>Presentation and Final Report Due</font>
 
-## <font color='DarkOrange'>A group of pokemon who majored in business analytics is studying machine learning and its application. - DALLE3</font>
+##### <font color='DarkOrange'>A group of pokemon who majored in business analytics is studying machine learning and its application. (Prompt from GPT4 and Image from DALLE3)</font>
 
 ![credit: DALLE3](img/pika_ml.png)
