@@ -1,23 +1,20 @@
 # BT5153 Applied Machine Learning for Business Analytics
 
-#### <center>NUS, MSBA / Spring 2023</center>
+#### <center>NUS, MSBA / Spring 2024</center>
 
 ## <font color='DarkOrange'>Content</font>
 
-This module provides students a deep overview of various advanced machine learning techniques applied to business analytics tasks. The focus of this course will be the key and intuitive idea behind machine learning models and hands-on examples instead of theoretical analysis. The tentative topics include deep learning, unsupervised learning, machine learning system design, casual inference and explainable machine learning. The programming languages used will be Python.
+This course provides a comprehensive overview of advanced machine learning techniques, focusing on practical applications in business analytics. Emphasizing intuitive understanding, it covers trending machine learning models, particularly in Natural Language Processing (NLP). Students will engage in hands-on learning, exploring feature engineering, model selection, training, and the development of end-to-end machine learning projects. For sure, the curriculum includes a special segment on Large Language Models (LLMs). Python will be the primary programming language used for instruction and project implementation. The course aims to equip students with both theoretical knowledge and practical skills for real-world challenges.
 
 ### Contact Information:
 
 - Lecturer: Rui Zhao, [diszr@nus.edu.sg](mailto:diszr@nus.edu.sg)
 - TA: Xiaohui Liu, [xiaohuiliu@u.nus.edu](mailto:xiaohuiliu@u.nus.edu)
-- TA: Aishik Pyne, [aishikpyne@u.nus.edu](mailto:aishikpyne@u.nus.edu)
-- TA: Cungen Zhu, [zhucg@nus.edu.sg](mailto:zhucg@nus.edu.sg)
 
 ### Prerequisites:
 
 - Basic knowledge in Python programing
 - Basic math knowledge
-- DSC5106 Foundation in Data Analytics I
 
 ### Reference Books
 
@@ -35,8 +32,8 @@ If you are not proficient in python, you may find [some tutorials](material/codi
 
 - [Timetable](#schedule)
 - [Syllabus](material/syllabus.md)
-- [Code Repo](https://github.com/rz0718/BT5153_2023)
-- [Final project](project/project.md)
+- [Code Repo]-TBU
+- [Final project]-TBU
 - [Canvas](https://canvas.nus.edu.sg/courses/37268): **please check that you are enrolled.**
 - [Honor Code](honorcode.md)
 
@@ -58,18 +55,13 @@ There are three weekly assignments and a mini Kaggle competition. Students are e
 
 ### Group Project (40%)
 
-You are required to form a project group with 4-5 members. Students can form their own teams and please fill out the google sheets. If a student can’t find a partner, we will team you up randomly (send the email to our TAs). Your project task is to apply the data mining and machine learning techniques that you have acquired to gain insights and draw interesting conclusions to a (business) problem. You are to apply (advanced) data mining and analytics tools (preferably in Python as Python tools are used as supplementary aids during the delivery of this course) to process structured and unstructured data available on the Web. You will then summarize your insights and present your conclusions using suitable visual aids. More detailed information can be found [here](project/project.md).
+You are required to form a project group with 4-5 members. Students can form their own teams and please fill out the google sheets. If a student can’t find a partner, we will team you up randomly (send the email to our TAs). Your project task is to apply the data mining and machine learning techniques that you have acquired to gain insights and draw interesting conclusions to a (business) problem. You are to apply (advanced) data mining and analytics tools (preferably in Python as Python tools are used as supplementary aids during the delivery of this course) to process structured and unstructured data available on the Web. You will then summarize your insights and present your conclusions using suitable visual aids. More detailed information can be found [here](project/BT5153_ProjectGuidelines_Grading Criteria.pdf).
 
 - **Credit**:
   * Project proposal (5%) 
   * Project presentation (20%)
   * Project final report (15%)
 
-### Late Policy
-
-* You can use 2 late days, with up to 2 late days per submission including assignments and group projects.
-* Once you have used all 2 late days, penalty is 25% for each additional late day. 
-* It only applies for individual assignments.
 
 ## <font color='DarkOrange'>Schedule</font>
 
@@ -77,22 +69,22 @@ Class Venue: COM1-0204
 
 **Date** |	**Topic** |	**Content** | **Assignment**
 :----:  | ------- | :----: | ---------------
-Fri 01/13 | Introduction to Machine Learning and its Production | [LINK](note/blogs01.md) | N.A.
-Fri 01/20 | Training Data Generation | [LINK](note/blogs02.md) | <font color='SeaGreen'>Assignment I Out</font>
-Fri 01/27 | Neural Networks and Deep Learning | [LINK](note/blogs03.md) |  <font color='SeaGreen'>Form your team</font>
-Fri 02/03 | Deep Learning Practices | [LINK](note/blogs04.md) | <font color='SeaGreen'>Assignment II Out</font>
-Fri 02/10 | Auto-encoders | [LINK](note/blogs05.md) | N.A.
-Fri 02/17 | Convolutional Neural Networks| [LINK](note/blogs06.md)  |<font color='SeaGreen'>Proposal Due</font>
-Fri 02/24 | Recess Week | N.A. |  N.A.
-Fri 03/04 | Explainable Machine Learning | [LINK](note/blogs07.md) | <font color='SeaGreen'>Assignment III Out</font>
-Fri 03/10 | Frontiers in NLP | [LINK](note/blogs08.md) | <font color='SeaGreen'>Kaggle Starts</font>
-Fri 03/17 | Model Evaluation in Machine Learning | [LINK](note/blogs09.md) | N.A.
-Fri 03/24 | Get Machine Learning Models in Production | [LINK](note/blogs10.md)  | N.A.
-Fri 03/31 | Causal Inference for Decision Making | [LINK](note/blogs11.md)  | <font color='SeaGreen'>Kaggle Competition Due 04/02</font>
-Fri 04/07 | Good Friday | TBU | <font color='SeaGreen'>Kaggle Report Due 04/09</font>
-Fri 04/14 | Why do ML Projects Fail in Business | [LINK](note/blogs12.md)  | N.A.
-Sun 04/23 | Reading Week | N.A. | <font color='SeaGreen'>Presentation and Final Report Due</font>
-    
-## <font color='DarkOrange'>Enjoy the class and all the deadlines</font>
+Fri 01/19 | Introduction to Machine Learning and its Production | TBU | N.A.
+Fri 01/26 | Data Preparation | TBU | <font color='SeaGreen'>Assignment I Out</font>
+Fri 02/02 | Machine Learning Modelling |TBU |  N.A.
+Fri 02/09 | NO CLASS (CNY) | TBU | <font color='SeaGreen'>Form your team</font>
+Fri 02/16 | Machine Learning Evaluation | TBU | <font color='SeaGreen'>Assignment II Out</font>
+Fri 02/23 | Machine Learning Deployment | TBU  | N.A.
+Fri 03/01 | Recess Week | N.A. |  <font color='SeaGreen'>Proposal Due</font>
+Fri 03/08 | Explainable Machine Learning | TBU | <font color='SeaGreen'>Assignment III Out</font>
+Fri 03/15 | From BoW to Word2Vec| TBU | <font color='SeaGreen'>Kaggle Starts</font>
+Fri 03/22 | From Word2Vec to Transformers | TBU | N.A.
+Fri 03/29 | NO CLASS (Good Friday) | TBU  | N.A.
+Fri 04/05 | LLM and its Practices I | TBU  | <font color='SeaGreen'>Kaggle Competition Due 04/02</font>
+Fri 04/12 | LLM and its Practices II | TBU | <font color='SeaGreen'>Kaggle Report Due 04/09</font>
+Fri 04/19 | Why do ML Projects Fail in Business | TBU  | N.A.
+Sun 04/26 | Reading Week | N.A. | <font color='SeaGreen'>Presentation and Final Report Due</font>
 
-![credit: SG PIKACHU RUN 2017](img/PIKA.jpg)
+## <font color='DarkOrange'>A group of pokemon who majored in business analytics is studying machine learning and its application.</font>
+
+![credit: DALLE3](img/pika_ml.png)

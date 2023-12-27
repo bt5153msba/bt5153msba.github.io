@@ -31,7 +31,7 @@ If you are not proficient in python, you may find [some tutorials](material/codi
 ### Course material and links
 
 - [Timetable](#schedule)
-- [Syllabus](material/syllabus.md)
+- [Policy](material/coursepolicy.md)
 - [Code Repo]-TBU
 - [Final project]-TBU
 - [Canvas](https://canvas.nus.edu.sg/courses/37268): **please check that you are enrolled.**
@@ -55,10 +55,10 @@ There are three weekly assignments and a mini Kaggle competition. Students are e
 
 ### Group Project (40%)
 
-You are required to form a project group with 4-5 members. Students can form their own teams and please fill out the google sheets. If a student can’t find a partner, we will team you up randomly (send the email to our TAs). Your project task is to apply the data mining and machine learning techniques that you have acquired to gain insights and draw interesting conclusions to a (business) problem. You are to apply (advanced) data mining and analytics tools (preferably in Python as Python tools are used as supplementary aids during the delivery of this course) to process structured and unstructured data available on the Web. You will then summarize your insights and present your conclusions using suitable visual aids. More detailed information can be found [here](project/project.md).
+You are required to form a project group with 4-5 members. Students can form their own teams and please fill out the google sheets. If a student can’t find a partner, we will team you up randomly (send the email to our TAs). Your project task is to apply the data mining and machine learning techniques that you have acquired to gain insights and draw interesting conclusions to a (business) problem. You are to apply (advanced) data mining and analytics tools (preferably in Python as Python tools are used as supplementary aids during the delivery of this course) to process structured and unstructured data available on the Web. You will then summarize your insights and present your conclusions using suitable visual aids. More detailed information can be found [here](project/BT5153_ProjectGuidelines_Grading Criteria.pdf).
 
 - **Credit**:
-  * Project proposal (5%) 
+  * Project proposal (5%)
   * Project presentation (20%)
   * Project final report (15%)
 
@@ -90,6 +90,6 @@ Fri 04/12 | LLM and its Practices II | TBU | <font color='SeaGreen'>Kaggle Repor
 Fri 04/19 | Why do ML Projects Fail in Business | TBU  | N.A.
 Sun 04/26 | Reading Week | N.A. | <font color='SeaGreen'>Presentation and Final Report Due</font>
 
-## <font color='DarkOrange'>A group of pokemon who majored in business analytics is studying machine learning and its application.</font>
+## <font color='DarkOrange'>A group of pokemon who majored in business analytics is studying machine learning and its application. - DALLE3</font>
 
 ![credit: DALLE3](img/pika_ml.png)
