@@ -32,7 +32,7 @@ If you are not proficient in python, you may find [some tutorials](material/codi
 
 - [Timetable](#schedule)
 - [Policy](material/coursepolicy.md)
-- [Code Repo]-TBU
+- [Code Repo](https://github.com/rz0718/BT5153_2024/tree/main)
 - [Final project]-TBU
 - [Canvas](https://canvas.nus.edu.sg/courses/52787): **please check that you are enrolled.**
 - [Honor Code](honorcode.md)
@@ -74,7 +74,7 @@ Class Venue: COM1-0204
 
 **Date** |	**Topic** |	**Content** | **Assignment**
 :----:  | ------- | :----: | ---------------
-Fri 01/19 | Introduction to Machine Learning and its Production | TBU | N.A.
+Fri 01/19 | Introduction to Machine Learning and its Production | [Link](note/blogs01.md) | N.A.
 Fri 01/26 | Data Preparation | TBU | <font color='SeaGreen'>Assignment I Out</font>
 Fri 02/02 | Machine Learning Modelling |TBU |  <font color='SeaGreen'>Form your team</font>
 Fri 02/09 | NO CLASS (CNY) | TBU | N.A.

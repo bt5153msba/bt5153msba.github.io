@@ -4,7 +4,7 @@
 
 1. [Slides](../slides/w1.pdf)
 
-2. [Notebook](https://github.com/rz0718/BT5153_2023/tree/main/codes/lab_lecture01)
+2. [Notebook](https://github.com/rz0718/BT5153_2024/tree/main/codes/lab_lecture01)
 
 ### Extra Reading
 
