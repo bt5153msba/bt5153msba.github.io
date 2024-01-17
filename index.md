@@ -10,6 +10,7 @@ This course provides a comprehensive overview of advanced machine learning techn
 
 - Lecturer: Rui Zhao, [diszr@nus.edu.sg](mailto:diszr@nus.edu.sg)
 - TA: Xiaohui Liu, [xiaohuiliu@u.nus.edu](mailto:xiaohuiliu@u.nus.edu)
+- TA: Shi Dingyu [e1154538@u.nus.edu](mailto:e1154538@u.nus.ed)
 
 ### Prerequisites:
 
@@ -33,7 +34,7 @@ If you are not proficient in python, you may find [some tutorials](material/codi
 - [Timetable](#schedule)
 - [Policy](material/coursepolicy.md)
 - [Code Repo](https://github.com/rz0718/BT5153_2024/tree/main)
-- [Final project]-TBU
+- [Final project](project/project.md)
 - [Canvas](https://canvas.nus.edu.sg/courses/52787): **please check that you are enrolled.**
 - [Honor Code](honorcode.md)
 
