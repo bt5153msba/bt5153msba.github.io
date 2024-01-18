@@ -10,7 +10,7 @@ This course provides a comprehensive overview of advanced machine learning techn
 
 - Lecturer: Rui Zhao, [diszr@nus.edu.sg](mailto:diszr@nus.edu.sg)
 - TA: Xiaohui Liu, [xiaohuiliu@u.nus.edu](mailto:xiaohuiliu@u.nus.edu)
-- TA: Shi Dingyu [e1154538@u.nus.edu](mailto:e1154538@u.nus.ed)
+- TA: Shi Dingyu [dingyushi@u.nus.edu](mailto:dingyushi@u.nus.edu)
 
 ### Prerequisites:
 
