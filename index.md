@@ -76,7 +76,7 @@ Class Venue: COM1-0204
 **Date** |	**Topic** |	**Content** | **Assignment**
 :----:  | ------- | :----: | ---------------
 Fri 01/19 | Introduction to Machine Learning and its Production | [Link](note/blogs01.md) | N.A.
-Fri 01/26 | Data Preparation | TBU | <font color='SeaGreen'>Assignment I Out</font>
+Fri 01/26 | Data Preparation | [Link](note/blogs02.md) | <font color='SeaGreen'>Assignment I Out</font>
 Fri 02/02 | Machine Learning Modelling |TBU |  <font color='SeaGreen'>Form your team</font>
 Fri 02/09 | NO CLASS (CNY) | TBU | N.A.
 Fri 02/16 | Machine Learning Evaluation | TBU | <font color='SeaGreen'>Assignment II Out</font>
