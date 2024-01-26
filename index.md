@@ -10,7 +10,7 @@ This course provides a comprehensive overview of advanced machine learning techn
 
 - Lecturer: Rui Zhao, [diszr@nus.edu.sg](mailto:diszr@nus.edu.sg)
 - TA: Xiaohui Liu, [xiaohuiliu@u.nus.edu](mailto:xiaohuiliu@u.nus.edu)
-- TA: Shi Dingyu [dingyushi@u.nus.edu](mailto:dingyushi@u.nus.edu)
+- TA: Dingyu Shi, [dingyushi@u.nus.edu](mailto:dingyushi@u.nus.edu)
 
 ### Prerequisites:
 
@@ -77,7 +77,7 @@ Class Venue: COM1-0204
 :----:  | ------- | :----: | ---------------
 Fri 01/19 | Introduction to Machine Learning and its Production | [Link](note/blogs01.md) | N.A.
 Fri 01/26 | Data Preparation | [Link](note/blogs02.md) | <font color='SeaGreen'>Assignment I Out</font>
-Fri 02/02 | Machine Learning Modelling |TBU |  <font color='SeaGreen'>Form your team</font>
+Fri 02/02 | Machine Learning Modelling |[Link](note/blogs03.md) |  <font color='SeaGreen'>Form your team</font>
 Fri 02/09 | NO CLASS (CNY) | TBU | N.A.
 Fri 02/16 | Machine Learning Evaluation | TBU | <font color='SeaGreen'>Assignment II Out</font>
 Fri 02/23 | Machine Learning Deployment | TBU  | N.A.
