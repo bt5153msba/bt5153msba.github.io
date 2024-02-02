@@ -1,4 +1,6 @@
-The NUS Business Analytics Centre (BAC) was established in 2013, in collaboration with IBM, to develop the skills and knowledge of professionals in business analytics. 
+The NUS Business Analytics Centre (BAC) was established in 2013, in collaboration with IBM, to develop the skills and knowledge of professionals in business analytics.
+
+This is a test line.  
 
 In a 5-year partnership that ensued, with IBM contributing industrial knowledge and NUS offering academic expertise, BAC offered and hosted the NUS Master of Science in Business Analytics (MSBA) programme. 
 
