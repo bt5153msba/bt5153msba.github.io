@@ -6,4 +6,6 @@ In a 5-year partnership that ensued, with IBM contributing industrial knowledge 
 
 Based in Singapore, students both local and international, enrolled in this master's degree programme are trained to meet the growing demand of companies who are looking to improve their operations through business analytics.
 
-NUS Master of Science in Business Analytics (MSBA) students are well-equipped with the expertise to excel in the data analytics field and serve a variety of industries such as retail, finance, information technology, healthcare and supply chain. To date, 300 industrial analytics projects have been accomplished by NUS MSBA students, with the institution developing valuable partnerships with over 100 organisations.
+NUS Master of Science in Business Analytics (MSBA) students are well-equipped with the expertise to excel in the data analytics field and serve a variety of industries such as retail, finance, information technology, healthcare and supply chain. 
+
+To date, 300 industrial analytics projects have been accomplished by NUS MSBA students, with the institution developing valuable partnerships with over 100 organisations.
