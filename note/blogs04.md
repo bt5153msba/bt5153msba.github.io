@@ -1,27 +1,25 @@
-# Lecture 4 Deep Learning Practices
+# Lecture 9 Model Evaluation in Machine Learning
 
 ## In-class Material
 
 1. [Slides](../slides/w4.pdf)
 
-2. [Notebook](https://github.com/rz0718/BT5153_2023/tree/main/codes/lab_lecture04)
+2. [Notebook](https://github.com/rz0718/BT5153_2024/tree/main/codes/lab_lecture04) 
 
 ### Extra Reading
 
-1. [An overview of Gradient Descent Optimization Methods](https://ruder.io/optimizing-gradient-descent/)
+1. [Slice finder](https://ieeexplore.ieee.org/abstract/document/8731353)
 
-2. [Multivariate time series models in Keras](https://github.com/deKeijzer/Multivariate-time-series-models-in-Keras/tree/master/notebooks)
+2. [Why model calibration matters and how to achieve it](https://www.unofficialgoogledatascience.com/2021/04/why-model-calibration-matters-and-how.html)
 
-3. [Backpropagation in Python, Andrej Karpathy](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b)
+3. [Calibrated recommendations](https://openreview.net/forum?id=-mUx28nmXvD)
 
-4. [Understanding Transfer Learning for Medical Imaging](https://ai.googleblog.com/2019/12/understanding-transfer-learning-for.html)
+4. [Data Versioning and Reproducible ML with DVC and MLflow](https://www.youtube.com/watch?v=W2DvpCYw22o)
 
-5. [Hands-on Transfer Learning with Python](https://github.com/dipanjanS/hands-on-transfer-learning-with-python/tree/master/notebooks)
+5. [A simple way to calibrate your neural network.](https://github.com/gpleiss/temperature_scaling)
 
-6. [Estimating BMI from Face Images using Keras and Transfer Learning](https://medium.com/@leosimmons/estimating-body-mass-index-from-face-images-using-keras-and-transfer-learning-de25e1bc0212)
+6. [How to automate model tuning with HyperOpt](https://towardsdatascience.com/hyperopt-demystified-3e14006eb6fa)
 
-7. [Deep Learning Tips and Tricks cheatsheet](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-deep-learning-tips-and-tricks)
+7. [Advanced Sklearn Pipelines](https://towardsdatascience.com/how-to-quickly-design-advanced-sklearn-pipelines-3cc97b59ce16)
 
-8. [Why do tree-based models still outperform deep learning on tabular data?](https://arxiv.org/abs/2207.08815)
-
-9. [Do not sleep on traditional machine learning: Simple and interpretable techniques are competitive to deep learning for sleep scoring](https://www.sciencedirect.com/science/article/abs/pii/S1746809422008837)
+8. [MLflow Tutorial](https://www.mlflow.org/docs/latest/tutorials-and-examples/tutorial.html)
