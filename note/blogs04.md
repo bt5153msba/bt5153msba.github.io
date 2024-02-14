@@ -1,10 +1,10 @@
-# Lecture 9 Model Evaluation in Machine Learning
+# Lecture 4 Model Evaluation in Machine Learning
 
 ## In-class Material
 
 1. [Slides](../slides/w4.pdf)
 
-2. [Notebook](https://github.com/rz0718/BT5153_2024/tree/main/codes/lab_lecture04) 
+2. [Notebook](https://github.com/rz0718/BT5153_2024/tree/main/codes/lab_lecture04)
 
 ### Extra Reading
 
@@ -22,4 +22,4 @@
 
 7. [Advanced Sklearn Pipelines](https://towardsdatascience.com/how-to-quickly-design-advanced-sklearn-pipelines-3cc97b59ce16)
 
-8. [MLflow Tutorial](https://www.mlflow.org/docs/latest/tutorials-and-examples/tutorial.html)
+8. [MLflow Tutorial](https://mlflow.org/docs/latest/tutorials-and-examples/index.html)
