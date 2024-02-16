@@ -10,7 +10,7 @@
 
 1. [MLOps Zoomcamp](https://www.youtube.com/playlist?list=PL3MmuxUbc_hIUISrluw_A7wDSmfOhErJK)
 
-2. [Data Versioning and Reproducible ML with DVC and MLflow](https://databricks.com/session_eu20/data-versioning-and-reproducible-ml-with-dvc-and-mlflow)
+2. [Data Versioning and Reproducible ML with DVC and MLflow](https://www.youtube.com/watch?v=W2DvpCYw22o)
 
 3. [Introduction to DVC: Data Version Control Tool for Machine Learning Projects](https://towardsdatascience.com/introduction-to-dvc-data-version-control-tool-for-machine-learning-projects-7cb49c229fe0)
 

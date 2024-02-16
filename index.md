@@ -63,12 +63,6 @@ You are required to form a project group with 4-5 members. Students can form the
   * Project presentation (20%)
   * Project final report (15%)
 
-### Late Policy
-
-* You can use 2 late day for individual assignments.
-* Once you have used all 2 late days, penalty is 25% for each additional late day.
-
-
 ## <font color='DarkOrange'>Schedule</font>
 
 Class Venue: COM1-0204
