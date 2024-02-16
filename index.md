@@ -80,7 +80,7 @@ Fri 01/26 | Data Preparation | [Link](note/blogs02.md) | <font color='SeaGreen'>
 Fri 02/02 | Machine Learning Modelling |[Link](note/blogs03.md) |  <font color='SeaGreen'>Form your team</font>
 Fri 02/09 | NO CLASS (CNY) | TBU | N.A.
 Fri 02/16 | Machine Learning Evaluation | [Link](note/blogs04.md) | <font color='SeaGreen'>Assignment II Out</font>
-Fri 02/23 | Machine Learning Deployment | TBU  | N.A.
+Fri 02/23 | Machine Learning Deployment | [Link](note/blogs05.md)  | N.A.
 Sun 03/03 | Recess Week | N.A. |  <font color='SeaGreen'>Proposal Due </font>
 Fri 03/08 | Explainable Machine Learning | TBU | <font color='SeaGreen'>Assignment III Out</font>
 Fri 03/15 | From BoW to Word2Vec| TBU | <font color='SeaGreen'>Kaggle Starts</font>

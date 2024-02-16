@@ -1,24 +1,21 @@
-# Lecture 5 AutoEncoder
+# Lecture 5 Model Deployment in Machine Learning 
 
 ## In-class Material
 
 1. [Slides](../slides/w5.pdf)
-
-2. [Notebook](https://github.com/rz0718/BT5153_2023/tree/main/codes/lab_lecture05)
-
+2. [Flask Demo](https://github.com/rz0718/BT5153_2024/tree/main/codes/lab_lecture05/spam_detection_flask)
+2. [ML Pipeline Demo](https://github.com/rz0718/spam_detection)
 
 ### Extra Reading
 
-1. [PCA and Autoencoder](http://www.cs.umd.edu/class/spring2019/cmsc422-0101/materials/lecture20-sp19.pdf)
+1. [MLOps Zoomcamp](https://www.youtube.com/playlist?list=PL3MmuxUbc_hIUISrluw_A7wDSmfOhErJK)
 
-2. [From Unsupervised Learning to Self-supervised Learning](https://medium.com/syncedreview/yann-lecun-cake-analogy-2-0-a361da560dae)
+2. [Data Versioning and Reproducible ML with DVC and MLflow](https://databricks.com/session_eu20/data-versioning-and-reproducible-ml-with-dvc-and-mlflow)
 
-3. [Prototyping a Recommender System](https://towardsdatascience.com/prototyping-a-recommender-system-step-by-step-part-1-knn-item-based-collaborative-filtering-637969614ea)
+3. [Introduction to DVC: Data Version Control Tool for Machine Learning Projects](https://towardsdatascience.com/introduction-to-dvc-data-version-control-tool-for-machine-learning-projects-7cb49c229fe0)
 
-4. [Non-negative Matrix Factorization for Recommder Systems](https://github.com/nicolasfguillaume/Recommender-Systems-Making-Movies-Recommendation/blob/master/MovieLens%20(NMF)%20v1.ipynb)
+4. [End-to-end MLOps with Vertex AI](https://www.youtube.com/watch?v=1ykDWsnL2LE)
 
-5. [Wide & Deep Learning for Recommender Systems](https://ai.googleblog.com/2016/06/wide-deep-learning-better-together-with.html)
+5. [Introduction to Docker and Kubernetes on GCP](https://medium.com/google-cloud/introduction-to-docker-and-kubernets-on-gcp-with-hands-on-configuration-part-1-docker-3d9709ee9f6a)
 
-6. [Recommender Systems by Xavier Amatriain](https://www.youtube.com/watch?v=mRToFXlNBpQ)
-
-7. [Jointly Optimize Capacity, Latency and Engagement in Large-scale Recommendation Systems](https://research.facebook.com/publications/jointly-optimize-capacity-latency-and-engagement-in-large-scale-recommendation-systems/)
+6. [How to Deploy a Machine Learning Model to Google Cloud](https://www.youtube.com/watch?v=fw6NMQrYc6w&t=6s)
