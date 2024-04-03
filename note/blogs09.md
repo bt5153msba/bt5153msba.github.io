@@ -1,4 +1,4 @@
-# Lecture 9 LLM
+# Lecture 9 LLM and its Practices I
 
 ## In-class Material
 
