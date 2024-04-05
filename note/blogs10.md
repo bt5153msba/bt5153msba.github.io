@@ -18,3 +18,7 @@
 
 5. [Adaptive Computation](https://github.com/koayon/awesome-adaptive-computation)
 
+6. [Understanding ReACT with LangChain](https://www.youtube.com/watch?v=Eug2clsLtFs)
+
+7. [Harrison Chase - Agents Masterclass from LangChain Founder](https://www.youtube.com/watch?v=DWUdGhRrv2c)
+
