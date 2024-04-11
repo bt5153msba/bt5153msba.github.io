@@ -82,7 +82,7 @@ Fri 03/22 | From Word2Vec to Transformers | [Link](note/blogs08.md) | N.A.
 Fri 03/29 | NO CLASS (Good Friday) | TBU  | N.A.
 Fri 04/05 | LLM and its Practices I | [Link](note/blogs09.md) | <font color='SeaGreen'>Kaggle Competition</font>
 Fri 04/12 | LLM and its Practices II | [Link](note/blogs10.md) | <font color='SeaGreen'>Kaggle Report</font>
-Fri 04/19 | Why do ML Projects Fail in Business | TBU  | N.A.
+Fri 04/19 | Why do ML Projects Fail in Business | [Link](note/blogs11.md)  | N.A.
 Sun 04/28 | Reading Week | N.A. | <font color='SeaGreen'>Presentation and Final Report Due</font>
 
 ## <font color='DarkOrange'>Enjoy the class and its deadlines</font>
