@@ -1,6 +1,6 @@
 # BT5153 Applied Machine Learning for Business Analytics
 
-#### <center>NUS, MSBA / Spring 2024</center>
+#### <center>NUS, MSBA / Spring 2025</center>
 
 ## <font color='DarkOrange'>Content</font>
 
@@ -22,7 +22,7 @@ This course provides a comprehensive overview of advanced machine learning techn
 The following books are helpful, but not required. You will easily get these books from Internet.
 
 - Deep Learning *Ian Goodfellow and Yoshua Bengio and Aaron Courville*
-- Machine Learning: A Probabilistic Perspective *Kevin P. Murphy*
+- Hands-On Large Language Models: Language Understanding and Generation *Jay Alammar and Maarten Grootendorst*
 - Foundations of Statistical Natural Language Processing *Christopher D. Manning and Hinrich Schütze*
 - Neural Network Methods for Natural Language Processing *Yoav Goldberg*
 - Introduction to Computation and Programming Using Python : With Application to Understanding Data *John V. Guttag* 
@@ -69,21 +69,21 @@ Class Venue: COM1-0204
 
 **Date** |	**Topic** |	**Content** | **Assignment**
 :----:  | ------- | :----: | ---------------
-Fri 01/19 | Introduction to Machine Learning and its Production | [Link](note/blogs01.md) | N.A.
-Fri 01/26 | Data Preparation | [Link](note/blogs02.md) | <font color='SeaGreen'>Assignment I Out</font>
-Fri 02/02 | Machine Learning Modelling |[Link](note/blogs03.md) |  <font color='SeaGreen'>Form your team</font>
-Fri 02/09 | NO CLASS (CNY) | TBU | N.A.
-Fri 02/16 | Machine Learning Evaluation | [Link](note/blogs04.md) | <font color='SeaGreen'>Assignment II Out</font>
-Fri 02/23 | Machine Learning Deployment | [Link](note/blogs05.md)  | N.A.
-Sun 03/03 | Recess Week | N.A. |  <font color='SeaGreen'>Proposal Due </font>
-Fri 03/08 | Explainable Machine Learning | [Link](note/blogs06.md) | <font color='SeaGreen'>Assignment III Out</font>
-Fri 03/15 | From BoW to Word2Vec| [Link](note/blogs07.md) | <font color='SeaGreen'>Kaggle Starts</font>
-Fri 03/22 | From Word2Vec to Transformers | [Link](note/blogs08.md) | N.A.
-Fri 03/29 | NO CLASS (Good Friday) | TBU  | N.A.
-Fri 04/05 | LLM and its Practices I | [Link](note/blogs09.md) | <font color='SeaGreen'>Kaggle Competition</font>
-Fri 04/12 | LLM and its Practices II | [Link](note/blogs10.md) | <font color='SeaGreen'>Kaggle Report</font>
-Fri 04/19 | Why do ML Projects Fail in Business | [Link](note/blogs11.md)  | N.A.
-Sun 04/28 | Reading Week | N.A. | <font color='SeaGreen'>Presentation and Final Report Due</font>
+Fri 01/17 | Introduction to Machine Learning and its Production | [Link](note/blogs01.md) | N.A.
+Fri 01/24 | From BoW to Word2Vec | [Link](note/blogs02.md) | <font color='SeaGreen'>Assignment I Out</font>
+Fri 01/31 | From Word2Vec to Transformers |[Link](note/blogs03.md) |  <font color='SeaGreen'>Form your team</font>
+Fri 02/07 | LLM and its Practices I |[Link](note/blogs04.md) |  N.A.
+Fri 02/14 | LLM and its Practices II | [Link](note/blogs05.md) | <font color='SeaGreen'>Assignment II Out</font>
+Fri 02/21 | LLM and its Practices III | [Link](note/blogs06.md)  | N.A.
+Fri 02/28 | Recess Week | N.A. |  <font color='SeaGreen'>Proposal Due </font>
+Fri 03/07 | Data Preparation | [Link](note/blogs07.md) | <font color='SeaGreen'>Assignment III Out</font>
+Fri 03/14 | ML Model Modelling | [Link](note/blogs08.md) | <font color='SeaGreen'>Kaggle Starts</font>
+Fri 03/21 | ML Model Evaluation | [Link](note/blogs09.md) | N.A.
+Fri 03/28 | NO CLASS (NUS Well-Being Day) | [Link](note/blogs10.md) | N.A.
+Fri 04/04 | ML Model Deployment | [Link](note/blogs10.md) | <font color='SeaGreen'>Kaggle Competition</font>
+Fri 04/11 | Why do ML Projects Fail in Business | [Link](note/blogs11.md) | N.A.
+Fri 04/18 | No CLASS (Good Friday) | [Link](note/blogs10.md) | <font color='SeaGreen'>Kaggle Report</font>
+Fri 04/25 | Reading Week | N.A. | <font color='SeaGreen'>Presentation and Final Report Due</font>
 
 ## <font color='DarkOrange'>Enjoy the class and its deadlines</font>
 ![credit: DALLE3](img/pika_ml.png)
