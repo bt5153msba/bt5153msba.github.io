@@ -69,21 +69,21 @@ Class Venue: COM1-0204
 
 **Date** |	**Topic** |	**Content** | **Assignment**
 :----:  | ------- | :----: | ---------------
-Fri 01/17 | Introduction to Machine Learning and its Production | [Link](note/blogs01.md) | N.A.
-Fri 01/24 | From BoW to Word2Vec | [Link](note/blogs02.md) | <font color='SeaGreen'>Assignment I Out</font>
-Fri 01/31 | From Word2Vec to Transformers |[Link](note/blogs03.md) |  <font color='SeaGreen'>Form your team</font>
-Fri 02/07 | LLM and its Practices I |[Link](note/blogs04.md) |  N.A.
-Fri 02/14 | LLM and its Practices II | [Link](note/blogs05.md) | <font color='SeaGreen'>Assignment II Out</font>
-Fri 02/21 | LLM and its Practices III | [Link](note/blogs06.md)  | N.A.
-Fri 02/28 | Recess Week | N.A. |  <font color='SeaGreen'>Proposal Due </font>
-Fri 03/07 | Data Preparation | [Link](note/blogs07.md) | <font color='SeaGreen'>Assignment III Out</font>
-Fri 03/14 | ML Model Modelling | [Link](note/blogs08.md) | <font color='SeaGreen'>Kaggle Starts</font>
-Fri 03/21 | ML Model Evaluation | [Link](note/blogs09.md) | N.A.
-Fri 03/28 | NO CLASS (NUS Well-Being Day) | [Link](note/blogs10.md) | N.A.
-Fri 04/04 | ML Model Deployment | [Link](note/blogs10.md) | <font color='SeaGreen'>Kaggle Competition</font>
-Fri 04/11 | Why do ML Projects Fail in Business | [Link](note/blogs11.md) | N.A.
-Fri 04/18 | No CLASS (Good Friday) | [Link](note/blogs10.md) | <font color='SeaGreen'>Kaggle Report</font>
-Fri 04/25 | Reading Week | N.A. | <font color='SeaGreen'>Presentation and Final Report Due</font>
+Fri 01/17 | Introduction to Machine Learning and its Production | TBU | N.A.
+Fri 01/24 | From BoW to Word2Vec | TBU | <font color='SeaGreen'>Assignment I Out</font>
+Fri 01/31 | From Word2Vec to Transformers | TBU |  <font color='SeaGreen'>Form your team</font>
+Fri 02/07 | LLM and its Practices I | TBU |  N.A.
+Fri 02/14 | LLM and its Practices II | TBU | <font color='SeaGreen'>Assignment II Out</font>
+Fri 02/21 | LLM and its Practices III | TBU  | N.A.
+Sun 03/02 | Recess Week | N.A. |  <font color='SeaGreen'>Proposal Due </font>
+Fri 03/07 | Data Preparation | TBU | <font color='SeaGreen'>Assignment III Out</font>
+Fri 03/14 | ML Model Modelling | TBU | <font color='SeaGreen'>Kaggle Starts</font>
+Fri 03/21 | ML Model Evaluation | TBU | N.A.
+Fri 03/28 | NO CLASS (NUS Well-Being Day) | N.A. | N.A.
+Fri 04/04 | ML Model Deployment | TBU | <font color='SeaGreen'>Kaggle Competition</font>
+Fri 04/11 | Why do ML Projects Fail in Business | TBU | N.A.
+Fri 04/18 | No CLASS (Good Friday) | N.A. | <font color='SeaGreen'>Kaggle Report</font>
+Sun 04/27 | N.A. | N.A. | <font color='SeaGreen'>Presentation and Final Report Due</font>
 
 ## <font color='DarkOrange'>Enjoy the class and its deadlines</font>
 ![credit: DALLE3](img/pika_ml.png)
