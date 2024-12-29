@@ -33,6 +33,7 @@ You might look at recent deep learning publications from top-tier machine learni
 
 #### Previous Years Project Reports
 
+- [Spring 2024](2024fyp.md)
 - [Spring 2023](2023fyp.md)
 - [Spring 2022](2022fyp.md)
 - [Spring 2021](2021fyp.md)
