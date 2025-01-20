@@ -19,3 +19,9 @@
 5. [Truly Master Scikit-Learn](https://towardsdatascience.com/want-to-truly-master-scikit-learn-2-essential-tips-from-the-official-developer-himself-dada6ff56b99)
 
 6. [Data-Informed Product Building](https://medium.com/sequoia-capital/sequoia-data-science-8a76098035a4)
+
+7. [Why Balancing Classes is Over-Hyped](https://towardsdatascience.com/why-balancing-classes-is-over-hyped-e382a8a410f7)
+
+8. [DATASET BALANCING CAN HURT MODEL PERFORMANCE](https://arxiv.org/pdf/2307.00079)
+
+9. [Local LLM: Ollama and WebUI](https://www.youtube.com/watch?v=BzFafshQkWw)
