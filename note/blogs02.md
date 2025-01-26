@@ -1,4 +1,4 @@
-# Lecture 7 From BoW to Word2Vec
+# Lecture 2 From BoW to Word2Vec
 
 ## In-class Material
 
