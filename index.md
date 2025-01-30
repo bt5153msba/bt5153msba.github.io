@@ -46,12 +46,11 @@ During some lectures, you will be asked to check in. It might be in-class quiz o
 
 ### Individual Assignments (50%)
 
-There are three weekly assignments and a mini Kaggle competition. Students are expected to complete these individual tasks to gauge their understanding of the course materials so as to prepare them for their Group Project and future data science tasks. Details of the individual assignments will be updated later.
+There are two assignments and a mini Kaggle competition. Students are expected to complete these individual tasks to gauge their understanding of the course materials so as to prepare them for their Group Project and future data science tasks. Details of the individual assignments will be updated later.
 
 - **Credit**:
   * Assignment 1 (10%)
-  * Assignment 2 (10%)
-  * Assignment 3 (10%)
+  * Assignment 2 (20%)
   * Kaggle Competition (20%)
 
 ### Group Project (40%)
@@ -72,11 +71,11 @@ Class Venue: COM1-0204
 Fri 01/17 | Introduction to Machine Learning and its Production | [Link](note/blogs01.md) | N.A.
 Fri 01/24 | From BoW to Word2Vec | [Link](note/blogs02.md) | <font color='SeaGreen'>Huggingface Tutorial</font>
 Fri 01/31 | From Word2Vec to Transformers | [Link](note/blogs03.md) |  <font color='SeaGreen'>Form your team & Assignment I Out</font>
-Fri 02/07 | LLM and its Practices I | [Link](note/blogs04.md)  | <font color='SeaGreen'>LangChain Tutorial</font>
+Fri 02/07 | LLM and its Practices I | [Link](note/blogs04.md)  | <font color='SeaGreen'>LangChain Tutorial & Assignment I Due</font>
 Fri 02/14 | LLM and its Practices II | [Link](note/blogs05.md)  | N.A.
 Fri 02/21 | LLM and its Practices III | [Link](note/blogs06.md)   | <font color='SeaGreen'>Build your First RAG & Assignment II Out</font>
 Sun 03/02 | Recess Week | N.A. |  <font color='SeaGreen'>Proposal Due </font>
-Fri 03/07 | Data Preparation | [Link](note/blogs07.md) | <font color='SeaGreen'>Assignment III Out</font>
+Fri 03/07 | Data Preparation | [Link](note/blogs07.md) | <font color='SeaGreen'>Assignment II Due</font>
 Fri 03/14 | ML Model Modelling | [Link](note/blogs08.md) | <font color='SeaGreen'>Kaggle Starts</font>
 Fri 03/21 | ML Model Evaluation | [Link](note/blogs09.md) | N.A.
 Fri 03/28 | NO CLASS (NUS Well-Being Day) | N.A. | N.A.
