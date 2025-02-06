@@ -17,15 +17,31 @@ This course provides a comprehensive overview of advanced machine learning techn
 - Basic knowledge in Python programing
 - Basic math knowledge
 
-### Reference Books
+### References
 
-The following books are helpful, but not required. You will easily get these books from Internet.
+To build a strong understanding of NLP and deep learning, I recommend the following books, blogs & papers.
 
-- Deep Learning *Ian Goodfellow and Yoshua Bengio and Aaron Courville*
-- Hands-On Large Language Models: Language Understanding and Generation *Jay Alammar and Maarten Grootendorst*
-- Foundations of Statistical Natural Language Processing *Christopher D. Manning and Hinrich Schütze*
-- Neural Network Methods for Natural Language Processing *Yoav Goldberg*
-- Introduction to Computation and Programming Using Python : With Application to Understanding Data *John V. Guttag*
+#### Recommended Books
+
+1. **[Hands-On Large Language Models: Language Understanding and Generation](https://www.oreilly.com/library/view/hands-on-large-language/9781098150952/)**
+
+2. **[Dive into Deep Learning](https://d2l.ai/index.html/)**
+
+3. **[Deep Learning](https://www.deeplearningbook.org/)**
+
+#### Blogs & Videos
+
+In addition to books, there are excellent blogs that can deepen your understanding:
+
+- [Hugging Face Blog](https://huggingface.co/blog) – Covers state-of-the-art NLP models and techniques.  
+- [Sebastian Ruder’s Blog](https://ruder.io/) – Great for recent advancements in NLP.  
+- [Jay Alammar’s Blog](https://jalammar.github.io/) – Excellent visual explanations of transformers and deep learning concepts.
+- [Lilian Weng’s Blog](https://lilianweng.github.io/) – Covers a wide range of topics in AI and LLMs.
+- [Andrej Karpathy’s Yotube](https://www.youtube.com/@AndrejKarpathy) – High-quality videos on deep learning and LLMs.
+
+#### Research Papers  
+
+- [LLM Paper List from Andrej Karpathy](https://www.kaggle.com/discussions/general/461152)
 
 If you are not proficient in python, you may find [some tutorials](material/coding.md) helpful.
 
