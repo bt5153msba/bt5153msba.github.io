@@ -34,7 +34,7 @@ To build a strong understanding of NLP and deep learning, I recommend the follow
 In addition to books, there are excellent blogs that can deepen your understanding:
 
 - [Hugging Face Blog](https://huggingface.co/blog) – Covers state-of-the-art NLP models and techniques.  
-- [Sebastian Ruder’s Blog](https://ruder.io/) – Great for recent advancements in NLP.  
+- [Cameron’s Blog](https://cameronrwolfe.substack.com/) – Great for recent advancements in NLP.  
 - [Jay Alammar’s Blog](https://jalammar.github.io/) – Excellent visual explanations of transformers and deep learning concepts.
 - [Lilian Weng’s Blog](https://lilianweng.github.io/) – Covers a wide range of topics in AI and LLMs.
 - [Andrej Karpathy’s Yotube](https://www.youtube.com/@AndrejKarpathy) – High-quality videos on deep learning and LLMs.
