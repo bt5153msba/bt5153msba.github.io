@@ -96,7 +96,7 @@ Fri 03/14 | ML Model Modelling | [Link](note/blogs08.md) | <font color='SeaGreen
 Fri 03/21 | ML Model Evaluation | [Link](note/blogs09.md) | N.A.
 Fri 03/28 | NO CLASS (NUS Well-Being Day) | N.A. | N.A.
 Fri 04/04 | ML Model Deployment | [Link](note/blogs10.md) | <font color='SeaGreen'>Kaggle Competition</font>
-Fri 04/11 | Why do ML Projects Fail in Business | TBU | N.A.
+Fri 04/11 | Why do ML Projects Fail in Business | [Link](note/blogs11.md) | N.A.
 Fri 04/18 | No CLASS (Good Friday) | N.A. | <font color='SeaGreen'>Kaggle Report</font>
 Sun 04/27 | N.A. | N.A. | <font color='SeaGreen'>Presentation and Final Report Due</font>
 
