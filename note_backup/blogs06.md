@@ -1,25 +1,21 @@
-# Lecture 6 Explainable Machine Learning
+# Lecture 6 LLM: Agents
 
 ## In-class Material
 
 1. [Slides](../slides/w6.pdf)
 
-2. [Notebook](https://github.com/rz0718/BT5153_2024/tree/main/codes/lab_lecture06)
+2. [Notebook](https://github.com/rz0718/BT5153_2025/tree/main/codes/lab_lecture06)
 
 ### Extra Reading
 
-1. [Kaggle Course: Machine Learning Explainability](https://www.kaggle.com/learn/machine-learning-explainability)
+1. [Building Effective Agents](https://www.anthropic.com/research/building-effective-agents)
 
-2. [Python Libraries for Interpretable Machine Learning](https://towardsdatascience.com/python-libraries-for-interpretable-machine-learning-c476a08ed2c7)
+2. [LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/)
 
-3. [Interesting resources related to XAI](https://github.com/pbiecek/xai_resources)
+3. [Agents](https://huyenchip.com/2025/01/07/agents.html)
 
-4. [What Causes Heart Disease? Explaining the Model](https://www.kaggle.com/tentotheminus9/what-causes-heart-disease-explaining-the-model)
+4. [Plan-and-Execute Agents](https://blog.langchain.dev/planning-agents/)
 
-5. [Better Preference Predictions: Tunable and Explainable Recommender Systems](https://blog.insightdatascience.com/tunable-and-explainable-recommender-systems-cd52b6287bad)
+5. [Tool Calling in Llama 3: A Step-by-step Guide To Build Agents](https://composio.dev/blog/tool-calling-in-llama-3-a-guide-to-build-agents/)
 
-6.  [Awesome Machine Learning Interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability)
-
-7. [Interpretable NLP](https://github.com/ShilinHe/interpretableNLP)
-
-8. [Understanding your Convolution network with Visualizations](https://towardsdatascience.com/understanding-your-convolution-network-with-visualizations-a4883441533b)
+6. [Awesome LMs with Tools](https://github.com/zorazrw/awesome-tool-llm)

@@ -1,21 +1,25 @@
-# Lecture 5 Model Deployment in Machine Learning 
+# Lecture 5 LLM: RAG
 
 ## In-class Material
 
 1. [Slides](../slides/w5.pdf)
-2. [Flask Demo](https://github.com/rz0718/BT5153_2024/tree/main/codes/lab_lecture05/spam_detection_flask)
-2. [ML Pipeline Demo](https://github.com/rz0718/spam_detection)
+
+2. [Notebook](https://github.com/rz0718/BT5153_2025/tree/main/codes/lab_lecture05)
 
 ### Extra Reading
 
-1. [MLOps Zoomcamp](https://www.youtube.com/playlist?list=PL3MmuxUbc_hIUISrluw_A7wDSmfOhErJK)
+1. [Evaluating Large Language Model (LLM) systems: Metrics, challenges, and best practices](https://medium.com/data-science-at-microsoft/evaluating-llm-systems-metrics-challenges-and-best-practices-664ac25be7e5)
 
-2. [Data Versioning and Reproducible ML with DVC and MLflow](https://www.youtube.com/watch?v=W2DvpCYw22o)
+2. [Promptflow](https://github.com/microsoft/promptflow)
 
-3. [Introduction to DVC: Data Version Control Tool for Machine Learning Projects](https://towardsdatascience.com/introduction-to-dvc-data-version-control-tool-for-machine-learning-projects-7cb49c229fe0)
+3. [Few-shot Prompting](https://www.promptingguide.ai/techniques/fewshot)
 
-4. [End-to-end MLOps with Vertex AI](https://www.youtube.com/watch?v=1ykDWsnL2LE)
+4. [Llamaindex](https://www.llamaindex.ai/open-source)
 
-5. [Introduction to Docker and Kubernetes on GCP](https://medium.com/google-cloud/introduction-to-docker-and-kubernets-on-gcp-with-hands-on-configuration-part-1-docker-3d9709ee9f6a)
+5. [Langchain](https://www.langchain.com/)
 
-6. [How to Deploy a Machine Learning Model to Google Cloud](https://www.youtube.com/watch?v=fw6NMQrYc6w&t=6s)
+6. [Harrison Chase - Agents Masterclass from LangChain Founder](https://www.youtube.com/watch?v=DWUdGhRrv2c)
+
+7. [Build a RAG App with LangChain](https://python.langchain.com/docs/tutorials/rag/)
+
+8. [Configuring RAG with OpenWebUI Documentation](https://docs.openwebui.com/tutorials/tips/rag-tutorial/)

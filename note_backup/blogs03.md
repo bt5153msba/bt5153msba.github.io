@@ -1,21 +1,23 @@
-# Lecture 3 Neural Networks and Deep Learning
+# Lecture 3 From Word2Vec to Transfomers
 
 ## In-class Material
 
 1. [Slides](../slides/w3.pdf)
 
-2. [Notebook](https://github.com/rz0718/BT5153_2024/tree/main/codes/lab_lecture03)
+2. [Notebook](https://github.com/rz0718/BT5153_2025/tree/main/codes/lab_lecture03)
 
 ### Extra Reading
 
-1. [HyperOpt Demystified](https://towardsdatascience.com/hyperopt-demystified-3e14006eb6fa)
+1. [RNN vs Autoregressive Models: Transformer](https://bair.berkeley.edu/blog/2018/08/06/recurrent/)
 
-2. [Ensemble Learning Techniques Tutorial](https://www.kaggle.com/code/pavansanagapati/ensemble-learning-techniques-tutorial/notebook)
+2. [Awesome BERT & Transfer Learning in NLP ](https://github.com/cedrickchee/awesome-bert-nlp)
 
-3. [7 Types of Cross-Validation (CV) Techniques](https://rukshanpramoditha.medium.com/7-types-of-cross-validation-cv-techniques-you-should-know-as-a-data-scientist-in-2023-516bd17b9189)
+3. [Why BERT Fails In Commercial Environments](https://www.intel.ai/bert-commercial-environments/)
 
-4. [Deep Learning Tips and Tricks cheatsheet](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-deep-learning-tips-and-tricks)
+4. [When Recurrent Models Don't Need to be Recurrent](https://bair.berkeley.edu/blog/2018/08/06/recurrent/)
 
-5. [Why do tree-based models still outperform deep learning on tabular data?](https://arxiv.org/abs/2207.08815)
+5. [The Time Series Transformer](https://towardsdatascience.com/the-time-series-transformer-2a521a0efad3)
 
-6. [Do not sleep on traditional machine learning: Simple and interpretable techniques are competitive to deep learning for sleep scoring](https://www.sciencedirect.com/science/article/abs/pii/S1746809422008837)
+6. [Applying massive language models in the real world with Cohere](http://jalammar.github.io/applying-large-language-models-cohere/)
+
+7. [Understanding and Coding the Self-Attention Mechanism of Large Language Models From Scratch](https://sebastianraschka.com/blog/2023/self-attention-from-scratch.html?utm_source=substack&utm_medium=email)

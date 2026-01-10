@@ -1,25 +1,25 @@
-# Lecture 4 Model Evaluation in Machine Learning
+# Lecture 4 LLM and Its Practices I
 
 ## In-class Material
 
 1. [Slides](../slides/w4.pdf)
 
-2. [Notebook](https://github.com/rz0718/BT5153_2024/tree/main/codes/lab_lecture04)
+2. [Notebook](https://github.com/rz0718/BT5153_2025/tree/main/codes/lab_lecture04)
 
 ### Extra Reading
 
-1. [Slice finder](https://ieeexplore.ieee.org/abstract/document/8731353)
+1. [Large Language Models: A Survey](https://arxiv.org/pdf/2402.06196.pdf)
 
-2. [Why model calibration matters and how to achieve it](https://www.unofficialgoogledatascience.com/2021/04/why-model-calibration-matters-and-how.html)
+2. [GPT1: Improving Language Understanding by Generative Pre-Training](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)
 
-3. [Calibrated recommendations](https://openreview.net/forum?id=-mUx28nmXvD)
+3. [GPT2: Language Models are Unsupervised Multitask Learners](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
 
-4. [Data Versioning and Reproducible ML with DVC and MLflow](https://www.youtube.com/watch?v=W2DvpCYw22o)
+4. [GPT3: Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165.pdf)
 
-5. [A simple way to calibrate your neural network.](https://github.com/gpleiss/temperature_scaling)
+5. [InstructGPT: Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155)
 
-6. [How to automate model tuning with HyperOpt](https://towardsdatascience.com/hyperopt-demystified-3e14006eb6fa)
+6. [Llama2](https://github.com/meta-llama/llama/tree/main)
 
-7. [Advanced Sklearn Pipelines](https://towardsdatascience.com/how-to-quickly-design-advanced-sklearn-pipelines-3cc97b59ce16)
+7. [Ilya Sutskever: "pretraining is done. we are now in the post training era"](https://www.youtube.com/watch?v=YD-9NG1Ke5Y)
 
-8. [MLflow Tutorial](https://mlflow.org/docs/latest/tutorials-and-examples/index.html)
+8. [How Scaling Laws Will Determine AI's Future](https://www.youtube.com/watch?v=d6Ed5bZAtrM)

@@ -1,21 +1,25 @@
-# Lecture 2 Machine Learning Practice
+# Lecture 2 From BoW to Word2Vec
 
 ## In-class Material
 
 1. [Slides](../slides/w2.pdf)
 
-2. [Notebook](https://github.com/rz0718/BT5153_2024/tree/main/codes/lab_lecture02)
+2. [Notebook](https://github.com/rz0718/BT5153_2025/tree/main/codes/lab_lecture02)
 
 ### Extra Reading
 
-1. [A Complete Guide to Data Augmentation](https://www.datacamp.com/tutorial/complete-guide-data-augmentation#)
+1. [Gensim Introduction](http://kavita-ganesan.com/gensim-word2vec-tutorial-starter-code/#.XJRo92gzaUk)
 
-2. [How Data Leakage Impacts Machine Learning Models](https://mlinproduction.com/data-leakage/)
+2. [Word2Vec Lecture by Chris Manning](https://www.youtube.com/watch?v=ERibwqs9p38)
 
-3. [Understanding Data Processing in Machine Learning: A Comprehensive Guide](https://medium.com/@iamdanielkissiedu/understanding-data-processing-in-machine-learning-a13aa93b613e)
+3. [Visualization for graphs of nearest neighbors from high-dimensional word2vec embeddings](https://github.com/anvaka/word2vec-graph)
 
-4. [Awesome Data Science with Python](https://github.com/r0f1/datascience)
+4. [Graph Embeddings](https://towardsdatascience.com/graph-embeddings-the-summary-cc6075aba007)
 
-5. [Pandas on “Large Data” Processing](https://towardsdatascience.com/why-and-how-to-use-pandas-with-large-data-9594dda2ea4c)
+5. [Natural Language Processing: From Basics to using RNN and LSTM](https://towardsdatascience.com/natural-language-processing-from-basics-to-using-rnn-and-lstm-ef6779e4ae66)
 
-6. [Programmatically labeling data using Snorkel with example](https://medium.com/data-science-in-your-pocket/programmatically-labeling-data-using-snorkel-with-example-a6a322ef0f2c)
+6. [An Overview of the main concepts of Word2Vec, GloVe, and FastText](http://hunterheidenreich.com/blog/intro-to-word-embeddings/)
+
+7. [NLP Learning Series](https://mlwhiz.com/blog/2019/01/17/deeplearning_nlp_preprocess/)
+
+8. [Transfer Learning in NLP](https://docs.google.com/presentation/d/1LsUAhR_qIVbq6xH6Aw4ag8MGB_-UWfd0KoVhtTgye6o/edit?usp=sharing)

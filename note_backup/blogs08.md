@@ -1,23 +1,21 @@
-# Lecture 8 From Word2Vec to Transfomers
+# Lecture 8 ML Model Modelling
 
 ## In-class Material
 
 1. [Slides](../slides/w8.pdf)
 
-2. [Notebook](https://github.com/rz0718/BT5153_2024/tree/main/codes/lab_lecture08)
+2. [Notebook](https://github.com/rz0718/BT5153_2025/tree/main/codes/lab_lecture08)
 
 ### Extra Reading
 
-1. [RNN vs Autoregressive Models: Transformer](https://bair.berkeley.edu/blog/2018/08/06/recurrent/)
+1. [Ensemble Learning Techniques Tutorial](https://www.kaggle.com/code/pavansanagapati/ensemble-learning-techniques-tutorial/notebook)
 
-2. [Awesome BERT & Transfer Learning in NLP ](https://github.com/cedrickchee/awesome-bert-nlp)
+2. [Deep Learning Tips and Tricks cheatsheet](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-deep-learning-tips-and-tricks)
 
-3. [Why BERT Fails In Commercial Environments](https://www.intel.ai/bert-commercial-environments/)
+3. [Why do tree-based models still outperform deep learning on tabular data?](https://arxiv.org/abs/2207.08815)
 
-4. [When Recurrent Models Don't Need to be Recurrent](https://bair.berkeley.edu/blog/2018/08/06/recurrent/)
+4. [Do not sleep on traditional machine learning: Simple and interpretable techniques are competitive to deep learning for sleep scoring](https://www.sciencedirect.com/science/article/abs/pii/S1746809422008837)
 
-5. [The Time Series Transformer](https://towardsdatascience.com/the-time-series-transformer-2a521a0efad3)
+5. [Explainability for Large Language Models: A Survey](https://arxiv.org/pdf/2309.01029)
 
-6. [Applying massive language models in the real world with Cohere](http://jalammar.github.io/applying-large-language-models-cohere/)
-
-7. [Understanding and Coding the Self-Attention Mechanism of Large Language Models From Scratch](https://sebastianraschka.com/blog/2023/self-attention-from-scratch.html?utm_source=substack&utm_medium=email)
+6. [SHAP & LIME for Model Explanation](https://medium.com/cmotions/opening-the-black-box-of-machine-learning-models-shap-vs-lime-for-model-explanation-d7bf545ce15f)
