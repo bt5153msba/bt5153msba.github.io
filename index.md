@@ -88,7 +88,7 @@ Class Venue: COM1-0204
 
 **Date** |	**Topic** |	**Content** | **Assignment**
 :----:  | ------- | :----: | ---------------
-Fri 01/16 | Introduction | Link | N.A.
+Fri 01/16 | Introduction | [Link](note/blogs01.md) | N.A.
 Fri 01/23 | Text Representations: BoW to Word2Vec | Link | N.A.
 Fri 01/30 | Transformers | Link | <font color='SeaGreen'>Assignment I Out </font>
 Fri 02/06 | LLM Fundamentals | Link | <font color='SeaGreen'>Assignment I Due </font>
