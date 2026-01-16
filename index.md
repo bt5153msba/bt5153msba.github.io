@@ -52,9 +52,9 @@ If you are not proficient in python, you may find [some tutorials](material/codi
 
 - [Timetable](#schedule)
 - [Policy](material/coursepolicy.md)
-- [Code Repo](https://github.com/rz0718/BT5153_2024/tree/main)
+- [Code Repo](https://github.com/rz0718/BT5153_2026/tree/main)
 - [Final project](project/project.md)
-- [Canvas](https://canvas.nus.edu.sg/courses/52787): **please check that you are enrolled.**
+- [Canvas](https://canvas.nus.edu.sg/): **please check that you are enrolled.**
 - [Honor Code](honorcode.md)
 
 ## <font color='DarkOrange'>Assessment</font>
@@ -65,11 +65,12 @@ During some lectures, you will be asked to check in. It might be in-class quiz o
 
 ### Individual Assignments (50%)
 
-There are two assignments and a mini Kaggle competition. Students are expected to complete these individual tasks to gauge their understanding of the course materials so as to prepare them for their Group Project and future data science tasks. Details of the individual assignments will be updated later.
+There are three assignments and a mini Kaggle competition. Students are expected to complete these individual tasks to gauge their understanding of the course materials so as to prepare them for their Group Project and future data science tasks. Details of the individual assignments will be updated later.
 
 - **Credit**:
   * Assignment 1 (10%)
-  * Assignment 2 (20%)
+  * Assignment 2 (10%)  
+  * Assignment 3 (10%)
   * Kaggle Competition (20%)
 
 ### Group Project (40%)
@@ -89,18 +90,18 @@ Class Venue: COM1-0204
 :----:  | ------- | :----: | ---------------
 Fri 01/16 | Introduction | Link | N.A.
 Fri 01/23 | Text Representations: BoW to Word2Vec | Link | N.A.
-Fri 01/30 | LLM Fundamentals | Link | <font color='SeaGreen'>Form your team </font>
-Fri 02/06 | Training & Scaling LLMs | Link | <font color='SeaGreen'>Assignment I Out </font>
-Fri 02/13 | Inference & Reasoning | Link |  <font color='SeaGreen'>Assignment I Due </font>
-Fri 02/20 | RAG & Context Management | Link |  <font color='SeaGreen'>Assignment II Out </font>
-Sun 03/01 | Recess Week | N.A. |  <font color='SeaGreen'>Proposal Due </font>
-Fri 03/06 | Agent Design Patterns | Link | <font color='SeaGreen'>Assignment II Due</font>
-Fri 03/13 | Agent Production&Security | Link | <font color='SeaGreen'>Kaggle Starts</font>
-Fri 03/20 | Data Preparation | Link | N.A.
+Fri 01/30 | Transformers | Link | <font color='SeaGreen'>Assignment I Out </font>
+Fri 02/06 | LLM Fundamentals | Link | <font color='SeaGreen'>Assignment I Due </font>
+Fri 02/13 | Training & Scaling LLMs | Link | <font color='SeaGreen'>Assignment II Out </font>
+Fri 02/20 | Inference & Reasoning | Link |  <font color='SeaGreen'>Assignment II Due </font>
+Fri 02/27 | Recess Week | N.A. |  <font color='SeaGreen'>Proposal Due </font>
+Fri 03/06 | RAG & Context Management | Link |  <font color='SeaGreen'>Assignment III Out </font>
+Fri 03/13 | Agent Design Patterns | Link | <font color='SeaGreen'>Assignment III Due</font>
+Fri 03/20 | Agent Production&Security | Link | <font color='SeaGreen'>Kaggle Starts</font>
 Fri 03/27 | ML Model Evaluation | N.A. | N.A.
-Sun 04/05 | Good Friday | N.A. | <font color='SeaGreen'>Kaggle Competition</font>
-Fri 04/10 | ML Model Deployment  | Link | N.A.
-Fri 04/17 | Why ML Projects Fail | Link | N.A.
-Sun 04/26 | N.A. | N.A. | <font color='SeaGreen'>Kaggle Report</font>
-Sun 05/03 | N.A. | N.A. | <font color='SeaGreen'>Presentation and Final Report Due</font>
+Fri 04/03 | Good Friday | N.A. | N.A.
+Fri 04/10 | ML Model Deployment  | Link | <font color='SeaGreen'>Kaggle Competition</font>
+Fri 04/17 | Why ML&LLM Projects Fail | Link | N.A.
+Fri 04/24 | N.A. | N.A. | <font color='SeaGreen'>Kaggle Report</font>
+Fri 05/01 | N.A. | N.A. | <font color='SeaGreen'>Presentation and Final Report Due</font>
 
