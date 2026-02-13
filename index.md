@@ -92,8 +92,8 @@ Fri 01/16 | Introduction | [Link](note/blogs01.md) | N.A.
 Fri 01/23 | Text Representations: BoW to Word2Vec | [Link](note/blogs02.md) | N.A.
 Fri 01/30 | Transformers | [Link](note/blogs03.md) |  <font color='Red'>Cancelled. Make-up: 02/06 & 02/13  </font>
 Fri 02/06 | LLM Fundamentals | [Link](note/blogs04.md) | <font color='SeaGreen'>Assignment I Out </font>
-Fri 02/13 | Training & Scaling LLMs | Link | <font color='SeaGreen'>Assignment II Due </font>
-Fri 02/20 | Inference & Reasoning | Link |  <font color='SeaGreen'>Assignment II Out </font>
+Fri 02/13 | Training & Scaling LLMs | [Link](note/blogs05.md) | <font color='SeaGreen'>Assignment I Due </font>
+Fri 02/20 | Inference & Reasoning | [Link](note/blogs06.md) |  <font color='SeaGreen'>Assignment II Out </font>
 Fri 02/27 | Recess Week | N.A. |  <font color='SeaGreen'>Proposal & Assignment II Due </font>
 Fri 03/06 | RAG & Context Management | Link |  <font color='SeaGreen'>Assignment III Out </font>
 Fri 03/13 | Agent Design Patterns | Link | <font color='SeaGreen'>Assignment III Due</font>
