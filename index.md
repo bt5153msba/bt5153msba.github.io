@@ -95,12 +95,12 @@ Fri 02/06 | LLM Fundamentals | [Link](note/blogs04.md) | <font color='SeaGreen'>
 Fri 02/13 | Training & Scaling LLMs | [Link](note/blogs05.md) | <font color='SeaGreen'>Assignment I Due </font>
 Fri 02/20 | Inference & Reasoning | [Link](note/blogs06.md) |  <font color='SeaGreen'>Assignment II Out </font>
 Fri 02/27 | Recess Week | N.A. |  <font color='SeaGreen'>Proposal & Assignment II Due </font>
-Fri 03/06 | RAG & Context Management | Link |  <font color='SeaGreen'>Assignment III Out </font>
-Fri 03/13 | Agent Design Patterns | Link | <font color='SeaGreen'>Assignment III Due</font>
-Fri 03/20 | Agent Production&Security | Link | <font color='SeaGreen'>Kaggle Starts</font>
-Fri 03/27 | ML Model Evaluation | N.A. | N.A.
+Fri 03/06 | LLM Applications| [Link](note/blogs07.md) |  <font color='SeaGreen'>Assignment III Out </font>
+Fri 03/13 | Agent: Tools   | Link | <font color='SeaGreen'>Assignment III Due</font>
+Fri 03/20 | Agent: Thinking Patterns | Link | <font color='SeaGreen'>Kaggle Starts</font>
+Fri 03/27 | Agent: Memory | N.A. | N.A.
 Fri 04/03 | Good Friday | N.A. | N.A.
-Fri 04/10 | ML Model Deployment  | Link | <font color='SeaGreen'>Kaggle Competition</font>
+Fri 04/10 | ML+Agent Evaluation  | Link | <font color='SeaGreen'>Kaggle Competition</font>
 Fri 04/17 | Why ML&LLM Projects Fail | Link | N.A.
 Fri 04/24 | N.A. | N.A. | <font color='SeaGreen'>Kaggle Report</font>
 Fri 05/01 | N.A. | N.A. | <font color='SeaGreen'>Presentation and Final Report Due</font>
