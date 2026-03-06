@@ -71,7 +71,7 @@ There are three assignments and a mini Kaggle competition. Students are expected
   * Assignment 1 (10%)
   * Assignment 2 (10%)  
   * Assignment 3 (10%)
-  * Kaggle Competition (20%)
+  * Mini Project (20%)
 
 ### Group Project (40%)
 
@@ -97,10 +97,10 @@ Fri 02/20 | Inference & Reasoning | [Link](note/blogs06.md) |  <font color='SeaG
 Fri 02/27 | Recess Week | N.A. |  <font color='SeaGreen'>Proposal & Assignment II Due </font>
 Fri 03/06 | LLM Applications| [Link](note/blogs07.md) |  <font color='SeaGreen'>Assignment III Out </font>
 Fri 03/13 | Agent: Tools   | Link | <font color='SeaGreen'>Assignment III Due</font>
-Fri 03/20 | Agent: Thinking Patterns | Link | <font color='SeaGreen'>Kaggle Starts</font>
+Fri 03/20 | Agent: Thinking Patterns | Link | <font color='SeaGreen'>Mini Project Starts</font>
 Fri 03/27 | Agent: Memory | N.A. | N.A.
 Fri 04/03 | Good Friday | N.A. | N.A.
-Fri 04/10 | ML+Agent Evaluation  | Link | <font color='SeaGreen'>Kaggle Competition</font>
+Fri 04/10 | ML+Agent Evaluation  | Link | <font color='SeaGreen'>Mini Project Competition</font>
 Fri 04/17 | Why ML&LLM Projects Fail | Link | N.A.
 Fri 04/24 | N.A. | N.A. | <font color='SeaGreen'>Kaggle Report</font>
 Fri 05/01 | N.A. | N.A. | <font color='SeaGreen'>Presentation and Final Report Due</font>
