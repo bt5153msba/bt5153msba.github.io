@@ -96,7 +96,7 @@ Class Venue: COM1-0204
 | Fri 03/06 | LLM Applications                      | [Link](note/blogs07.md) | Assignment III Out                |
 | Fri 03/13 | Agent: Tools                          | [Link](note/blogs08.md) | Assignment III Due                |
 | Fri 03/20 | Agent: Thinking Patterns              | [Link](note/blogs09.md) | Mini Project Starts               |
-| Fri 03/27 | Agent: Memory                         | N.A.                    | N.A.                              |
+| Fri 03/27 | Agent: Memory                         | [Link](note/blogs10.md)                   | N.A.                              |
 | Fri 04/03 | Good Friday                           | N.A.                    | N.A.                              |
 | Fri 04/10 | ML+Agent Evaluation                   | Link                    | Mini Project Competition          |
 | Fri 04/17 | Why ML&LLM Projects Fail              | Link                    | N.A.                              |
