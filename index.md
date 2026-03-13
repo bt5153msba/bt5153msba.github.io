@@ -81,7 +81,7 @@ You are required to form a project group with 4-5 members. Students can form the
 
 ## Schedule
 
-Class Venue: COM1-0204
+Class Venue: BIZ2-0511
 
 
 | **Date**  | **Topic**                             | **Content**             | **Assignment**                    |
