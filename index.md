@@ -98,9 +98,9 @@ Class Venue: BIZ2-0511
 | Fri 03/20 | Agent: Thinking Patterns              | [Link](note/blogs09.md) | Mini Project Starts               |
 | Fri 03/27 | Agent: Memory                         | [Link](note/blogs10.md)                   | N.A.                              |
 | Fri 04/03 | Good Friday                           | N.A.                    | N.A.                              |
-| Fri 04/10 | ML+Agent Evaluation                   | Link                    | Mini Project Competition          |
+| Fri 04/10 | LLM & Agent Evaluation                   | [Link](note/blogs11.md) | Mini Project Competition          |
 | Fri 04/17 | Why ML&LLM Projects Fail              | Link                    | N.A.                              |
-| Fri 04/24 | N.A.                                  | N.A.                    | Kaggle Report                     |
+| Fri 04/24 | N.A.                                  | N.A.                    | N.A.                     |
 | Fri 05/01 | N.A.                                  | N.A.                    | Presentation and Final Report Due |
 
 
