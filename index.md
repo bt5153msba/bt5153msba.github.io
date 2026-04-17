@@ -72,7 +72,7 @@ There are three assignments and a mini Kaggle competition. Students are expected
 
 ### Group Project (40%)
 
-You are required to form a project group with 4-5 members. Students can form their own teams and please fill out the google sheets. If a student can’t find a partner, we will team you up randomly (send the email to our TAs). Your project task is to apply the data mining and machine learning techniques that you have acquired to gain insights and draw interesting conclusions to a (business) problem. You are to apply (advanced) data mining and analytics tools (preferably in Python as Python tools are used as supplementary aids during the delivery of this course) to process structured and unstructured data available on the Web. You will then summarize your insights and present your conclusions using suitable visual aids. More detailed information can be found [here](project/BT5153_ProjectGuidelines_Grading Criteria.pdf).
+You are required to form a project group with 4-5 members. Students can form their own teams and please fill out the google sheets. If a student can’t find a partner, we will team you up randomly (send the email to our TAs). Your project task is to apply the data mining and machine learning techniques that you have acquired to gain insights and draw interesting conclusions to a (business) problem. You are to apply (advanced) data mining and analytics tools (preferably in Python as Python tools are used as supplementary aids during the delivery of this course) to process structured and unstructured data available on the Web. You will then summarize your insights and present your conclusions using suitable visual aids. More detailed information can be found [here](project/BT5153_ProjectGuidelines_Grading_Criteria.pdf).
 
 - **Credit**:
   - Project proposal (5%)
@@ -99,7 +99,7 @@ Class Venue: BIZ2-0511
 | Fri 03/27 | Agent: Memory                         | [Link](note/blogs10.md)                   | N.A.                              |
 | Fri 04/03 | Good Friday                           | N.A.                    | N.A.                              |
 | Fri 04/10 | LLM & Agent Evaluation                   | [Link](note/blogs11.md) | Mini Project Competition          |
-| Fri 04/17 | Why ML&LLM Projects Fail              | Link                    | N.A.                              |
+| Fri 04/17 | Why ML&LLM Projects Fail              | [Link](note/blogs12.md)                  | N.A.                              |
 | Fri 04/24 | N.A.                                  | N.A.                    | N.A.                     |
 | Fri 05/01 | N.A.                                  | N.A.                    | Presentation and Final Report Due |
 
