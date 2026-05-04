@@ -1,6 +1,6 @@
 ## 
 
-Course material and notes for [BT5153](https://nusmsba.github.io/), Applied Machine Learning for Business Analytics, National University of Singapore                                   
+Course material and notes for [BT5153](https://bt5153msba.github.io/), Applied Machine Learning for Business Analytics, National University of Singapore                                   
 
 ## Design Reference
 
